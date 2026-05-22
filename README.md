@@ -3,7 +3,7 @@
 A curated library of books for [The Heterarchy Society](https://heterarchy.cz). Each book is a YAML file; a build script compiles them into static JSON deployed via GitHub Pages.
 
 - **Browse:** [heterarchy.fyi/books](https://heterarchy.fyi/books)
-- **API / bundle:** [books.heterarchy.fyi](https://books.heterarchy.fyi/)
+- **API / bundle:** [books.data.heterarchy.fyi](https://books.data.heterarchy.fyi/)
 
 ## Adding or editing books
 

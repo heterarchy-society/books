@@ -1,0 +1,13 @@
+{
+  "name": "heterarchy-books",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Heterarchy Society library — books data repository",
+  "scripts": {
+    "build": "atlas build"
+  },
+  "dependencies": {
+    "@heterarchy/atlas": "github:heterarchy-society/atlas"
+  },
+  "license": "MIT"
+}

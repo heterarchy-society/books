@@ -1,0 +1,17 @@
+cover: network-state.jpg
+title: The Network State
+author: Balaji Srinivasan
+year: "2022"
+description: |
+  How to start a new country.
+language: [en]
+formats: [web, ebook]
+physical: false
+tags: [governance, sovereignty, decentralization, crypto]
+links:
+  - href: https://thenetworkstate.com/
+    label: "→ číst online"
+    external: true
+source:
+  name: Sovereign Engineering
+  href: https://sovereignengineering.io/books

@@ -1,0 +1,17 @@
+cover: free-software-free-society.jpg
+title: "Free Software, Free Society"
+author: Richard Stallman
+year: "2002"
+description: |
+  Selected Essays of Richard M. Stallman. When we speak of free software, we are referring to freedom, not price.
+language: [en]
+formats: [pdf, ebook]
+physical: false
+tags: [open-source, software, freedom, copyright]
+links:
+  - href: https://www.gnu.org/philosophy/fsfs/rms-essays.pdf
+    label: "→ stáhnout PDF"
+    external: true
+source:
+  name: Sovereign Engineering
+  href: https://sovereignengineering.io/books

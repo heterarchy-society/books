@@ -1,0 +1,26 @@
+cover: praxeology-of-privacy.jpg
+title: The Praxeology of Privacy
+author: Max Hillebrand
+year: "2026"
+description: |
+  The state cannot steal what it cannot see. A synthesis of Austrian economics and cypherpunk cryptography — why privacy matters and the engineering that makes it survivable.
+language: [en]
+formats: [pdf, ebook, print]
+physical: false
+tags: [privacy, cypherpunk, economics, cryptography]
+links:
+  - href: https://pay.towardsliberty.com/Storage/c38551e1-9fc8-44f8-b295-8de7773546f4
+    label: "→ stáhnout PDF (zdarma)"
+    external: true
+  - href: https://pay.towardsliberty.com/Storage/cc3cfa79-3e83-4a2f-be25-5ec7f5e17001
+    label: "→ EPUB"
+    external: true
+  - href: https://www.amazon.de/dp/B0H1L1H1GM
+    label: "→ koupit (Amazon)"
+    external: true
+  - href: https://pay.towardsliberty.com/apps/v5yU4xADsJJjxF3foYPDPFd1Snj/pos
+    label: "→ Towards Liberty"
+    external: true
+source:
+  name: Towards Liberty
+  href: https://pay.towardsliberty.com/apps/v5yU4xADsJJjxF3foYPDPFd1Snj/pos

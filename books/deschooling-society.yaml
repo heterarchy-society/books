@@ -1,0 +1,17 @@
+cover: deschooling-society.jpg
+title: Deschooling Society
+author: Ivan Illich
+year: "1971"
+description: |
+  Povinná školní docházka jako institucionální kolonizace učení. Illich navrhuje "vzdělávací sítě" — decentralizované vrstevnické struktury místo hierarchických institucí. Prorocká předzvěst internetu.
+language: [en]
+formats: [pdf, ebook]
+physical: false
+tags: [education, institutions, decentralization, autonomy]
+links:
+  - href: https://archive.org/details/deschoolingsoci000illi
+    label: "→ číst na archive.org"
+    external: true
+source:
+  name: Internet Archive
+  href: https://archive.org/details/deschoolingsoci000illi

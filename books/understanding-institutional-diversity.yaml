@@ -1,0 +1,20 @@
+cover: understanding-institutional-diversity.jpg
+title: Understanding Institutional Diversity
+author: Elinor Ostrom
+year: "2005"
+description: |
+  Ostrom presents the IAD framework for analyzing how institutions form and govern collective action — from common-pool resources to self-organized communities. Klíčová práce o polycentriickém vládnutí a správě bez centrální autority.
+language: [en]
+formats: [pdf]
+physical: false
+tags: [governance, institutions, commons, polycentric]
+links:
+  - href: https://wtf.tw/ref/ostrom_2005.pdf
+    label: "→ stáhnout PDF"
+    external: true
+  - href: https://press.princeton.edu/books/paperback/9780691122380/understanding-institutional-diversity
+    label: "→ Princeton UP"
+    external: true
+source:
+  name: Princeton University Press
+  href: https://press.princeton.edu/books/paperback/9780691122380/understanding-institutional-diversity

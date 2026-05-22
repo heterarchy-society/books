@@ -1,0 +1,17 @@
+cover: cathedral-bazaar.jpg
+title: The Cathedral and the Bazaar
+author: Eric S. Raymond
+year: "1999"
+description: |
+  Musings on Linux and Open Source by an Accidental Revolutionary. Eseje o otevřeném vývoji a decentralizované spolupráci.
+language: [en]
+formats: [web]
+physical: false
+tags: [open-source, decentralization, software, community]
+links:
+  - href: http://www.catb.org/~esr/writings/cathedral-bazaar/
+    label: "→ číst online"
+    external: true
+source:
+  name: Sovereign Engineering
+  href: https://sovereignengineering.io/books

@@ -1,0 +1,17 @@
+cover: word-for-world-is-forest.jpg
+title: The Word for World is Forest
+author: Ursula K. Le Guin
+year: "1976"
+description: |
+  Novela o kolonializmu a násilí na cizí planetě — když mírový národ Athšanů povstane proti lidským dobyvatelům, zkoumá Le Guin cenu, kterou platí za opuštění vlastních hodnot. Hugo Award 1973.
+language: [en]
+formats: [print, ebook]
+physical: false
+tags: [fiction, colonialism, resistance, sci-fi]
+links:
+  - href: https://www.ursulakleguin.com/the-word-for-world-is-forest
+    label: "→ web autorky"
+    external: true
+source:
+  name: Ursula K. Le Guin
+  href: https://www.ursulakleguin.com/the-word-for-world-is-forest

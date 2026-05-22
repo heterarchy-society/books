@@ -1,0 +1,17 @@
+cover: weapons-of-math-destruction.jpg
+title: Weapons of Math Destruction
+author: Cathy O'Neil
+year: "2016"
+description: |
+  Jak algoritmy fungují jako nástroje moci — neprůhledné, samonaplňující a systematicky poškozující ty nejzranitelnější. O'Neil demaskuje matematiku jako politiku.
+language: [en]
+formats: [print, ebook]
+physical: false
+tags: [algorithms, power, surveillance, ai]
+links:
+  - href: https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/
+    label: "→ web knihy"
+    external: true
+source:
+  name: Crown
+  href: https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/

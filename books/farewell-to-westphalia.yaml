@@ -1,0 +1,26 @@
+cover: farewell-to-westphalia.png
+title: "Farewell to Westphalia: Crypto Sovereignty and Post-Nation-State Governance"
+author: Jarrad Hope & Peter Ludlow
+year: "2025"
+description: |
+  What comes after the 400-year-old nation-state system? The book explores what may succeed nation states — from cyberstates to internet movements — and argues that decentralised communities and blockchain governance are already taking root.
+language: [en]
+formats: [pdf, ebook, print, web]
+physical: false
+tags: [governance, sovereignty, crypto, decentralization]
+links:
+  - href: "https://logos.co/assets/Farewell%20to%20Westphalia%20(Jarrad%20Hope%20and%20Peter%20Ludlow)%20-%20FOSS%20edition.pdf"
+    label: "→ stáhnout PDF (zdarma)"
+    external: true
+  - href: https://arxiv.org/pdf/2510.09840
+    label: "→ arXiv"
+    external: true
+  - href: https://www.amazon.com/Farewell-Westphalia-Sovereignty-Post-Nation-State-Governance/dp/B0FQ3694VJ
+    label: "→ koupit (Amazon)"
+    external: true
+  - href: https://logos.co/farewell-to-westphalia
+    label: "→ Logos"
+    external: true
+source:
+  name: Logos
+  href: https://logos.co/farewell-to-westphalia

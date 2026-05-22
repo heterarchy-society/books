@@ -1,0 +1,20 @@
+cover: tracers-in-the-dark.webp
+title: "Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency"
+author: Andy Greenberg
+year: "2022"
+description: |
+  From the author of Sandworm: investigators who cracked the Bitcoin blockchain, exposing once-anonymous realms of money, drugs, and violence.
+language: [en]
+formats: [print, ebook]
+physical: false
+tags: [crypto, privacy, surveillance, journalism]
+links:
+  - href: https://www.amazon.com/Tracers-Dark-Global-Crime-Cryptocurrency/dp/0385548095
+    label: "→ koupit (Amazon)"
+    external: true
+  - href: https://parallelpolis.info/b/tracers-in-the-dark-by-andy-greenberg
+    label: "→ Parallel Polis"
+    external: true
+source:
+  name: Parallel Polis
+  href: https://parallelpolis.info/books

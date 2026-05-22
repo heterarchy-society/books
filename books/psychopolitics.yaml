@@ -1,0 +1,20 @@
+cover: psychopolitics.webp
+title: "Psychopolitics: Neoliberalism and New Technologies of Power"
+author: Byung-Chul Han
+year: "2017"
+description: |
+  Exploring how neoliberalism has discovered the productive force of the psyche.
+language: [en]
+formats: [print, ebook]
+physical: false
+tags: [philosophy, power, surveillance, neoliberalism]
+links:
+  - href: https://www.amazon.com/Psychopolitics-Neoliberalism-New-Technologies-Power/dp/1784785776
+    label: "→ koupit (Amazon)"
+    external: true
+  - href: https://parallelpolis.info/b/psycho-politics-by-byung-chul-han
+    label: "→ Parallel Polis"
+    external: true
+source:
+  name: Parallel Polis
+  href: https://parallelpolis.info/books

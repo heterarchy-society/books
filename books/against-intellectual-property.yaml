@@ -1,0 +1,17 @@
+cover: against-intellectual-property.jpg
+title: Against Intellectual Property
+author: Stephan Kinsella
+year: "2008"
+description: |
+  Would a libertarian society recognize patents as legitimate? What about copyright?
+language: [en]
+formats: [ebook, web]
+physical: false
+tags: [copyright, anarcho-capitalism, libertarianism, law]
+links:
+  - href: https://mises.org/library/book/against-intellectual-property
+    label: "→ číst na mises.org"
+    external: true
+source:
+  name: Sovereign Engineering
+  href: https://sovereignengineering.io/books

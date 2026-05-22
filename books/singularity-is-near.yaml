@@ -1,0 +1,17 @@
+cover: singularity-is-near.jpg
+title: The Singularity Is Near
+author: Ray Kurzweil
+year: "2005"
+description: |
+  When Humans Transcend Biology. A deep dive into exponential technological growth and the coming merger of human and machine intelligence.
+language: [en]
+formats: [ebook]
+physical: false
+tags: [ai, technology, futurism, transhumanism]
+links:
+  - href: https://archive.org/details/singularityisnea00kurz
+    label: "→ číst na archive.org"
+    external: true
+source:
+  name: Sovereign Engineering
+  href: https://sovereignengineering.io/books

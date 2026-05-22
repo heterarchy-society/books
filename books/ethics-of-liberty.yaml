@@ -1,0 +1,17 @@
+cover: ethics-of-liberty.jpg
+title: The Ethics of Liberty
+author: Murray Rothbard
+year: "1982"
+description: |
+  Filozofický základ anarcho-kapitalismu — přirozené právo, vlastnictví a legitimita násilí. Rothbard buduje etický systém od prvních principů k aplikaci na stát a trh.
+language: [en]
+formats: [pdf, ebook]
+physical: false
+tags: [anarcho-capitalism, ethics, philosophy, natural-law]
+links:
+  - href: https://mises.org/library/book/ethics-liberty
+    label: "→ číst na mises.org"
+    external: true
+source:
+  name: Mises Institute
+  href: https://mises.org/library/book/ethics-liberty

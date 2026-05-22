@@ -1,0 +1,17 @@
+cover: 1984.jpg
+title: Nineteen Eighty-Four
+author: George Orwell
+year: "1949"
+description: |
+  Totalitní stát jako dokonalý stroj na výrobu souhlasu. Big Brother, doublethink, newspeak — Orwellův slovník se stal jazykem, kterým popisujeme skutečný svět.
+language: [en]
+formats: [ebook, print]
+physical: false
+tags: [fiction, dystopia, surveillance, totalitarianism]
+links:
+  - href: https://archive.org/details/nineteen-eighty-four-1984
+    label: "→ číst na archive.org"
+    external: true
+source:
+  name: Internet Archive
+  href: https://archive.org/details/nineteen-eighty-four-1984

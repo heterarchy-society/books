@@ -4,3 +4,4 @@ source_dir = "books"
 format = "yaml"
 output_key = "books"
 git_history = true
+assets_dir = "assets"

@@ -1,1 +1,279 @@
-[]
+[
+  {
+    "hash": "2b09a8120aabffe75af26bd7bb2f385342d7ba64",
+    "date": "2026-05-23T01:21:55+02:00",
+    "author": "tree",
+    "email": "tree@tree.fail",
+    "message": "Assets dir",
+    "changes": []
+  },
+  {
+    "hash": "f9b4d4336ef9b36c37ec8f3b0bee358186f0e373",
+    "date": "2026-05-23T01:16:15+02:00",
+    "author": "tree",
+    "email": "tree@tree.fail",
+    "message": "Update README.md",
+    "changes": []
+  },
+  {
+    "hash": "e1b4186c1732ab292b065e9e916c9d22879e31d6",
+    "date": "2026-05-23T00:59:15+02:00",
+    "author": "tree",
+    "email": "tree@tree.fail",
+    "message": "Initial implementation of the project structure and core functionality.",
+    "changes": []
+  },
+  {
+    "hash": "ab004021880641b07830715c272ff89af65167bb",
+    "date": "2026-05-23T00:52:25+02:00",
+    "author": "tree",
+    "email": "tree@tree.fail",
+    "message": "initial commit",
+    "changes": [
+      {
+        "id": "1984",
+        "op": "added"
+      },
+      {
+        "id": "against-intellectual-property",
+        "op": "added"
+      },
+      {
+        "id": "agorism-21st-century",
+        "op": "added"
+      },
+      {
+        "id": "algorithms-of-resistance",
+        "op": "added"
+      },
+      {
+        "id": "alignment-problem",
+        "op": "added"
+      },
+      {
+        "id": "anarchokapitalismus",
+        "op": "added"
+      },
+      {
+        "id": "animal-farm",
+        "op": "added"
+      },
+      {
+        "id": "applied-cryptography",
+        "op": "added"
+      },
+      {
+        "id": "blockchain-radicals",
+        "op": "added"
+      },
+      {
+        "id": "cathedral-bazaar",
+        "op": "added"
+      },
+      {
+        "id": "chasing-shadows",
+        "op": "added"
+      },
+      {
+        "id": "copyrights-and-copywrongs",
+        "op": "added"
+      },
+      {
+        "id": "crypto-levy",
+        "op": "added"
+      },
+      {
+        "id": "cypherpunk-ethics",
+        "op": "added"
+      },
+      {
+        "id": "dark-matters",
+        "op": "added"
+      },
+      {
+        "id": "dawn-of-everything",
+        "op": "added"
+      },
+      {
+        "id": "democracy-god-that-failed",
+        "op": "added"
+      },
+      {
+        "id": "deschooling-society",
+        "op": "added"
+      },
+      {
+        "id": "dispossessed",
+        "op": "added"
+      },
+      {
+        "id": "endurance-shackleton",
+        "op": "added"
+      },
+      {
+        "id": "enshittification",
+        "op": "added"
+      },
+      {
+        "id": "ethics-of-liberty",
+        "op": "added"
+      },
+      {
+        "id": "extreme-privacy",
+        "op": "added"
+      },
+      {
+        "id": "farewell-to-westphalia",
+        "op": "added"
+      },
+      {
+        "id": "finite-infinite-games",
+        "op": "added"
+      },
+      {
+        "id": "for-a-new-liberty",
+        "op": "added"
+      },
+      {
+        "id": "forest-passage",
+        "op": "added"
+      },
+      {
+        "id": "free-culture",
+        "op": "added"
+      },
+      {
+        "id": "free-software-free-society",
+        "op": "added"
+      },
+      {
+        "id": "governing-the-commons",
+        "op": "added"
+      },
+      {
+        "id": "lodging-wayfaring-men",
+        "op": "added"
+      },
+      {
+        "id": "man-economy-state",
+        "op": "added"
+      },
+      {
+        "id": "means-of-control",
+        "op": "added"
+      },
+      {
+        "id": "medical-nemesis",
+        "op": "added"
+      },
+      {
+        "id": "network-state",
+        "op": "added"
+      },
+      {
+        "id": "permanent-record",
+        "op": "added"
+      },
+      {
+        "id": "platform-brutality",
+        "op": "added"
+      },
+      {
+        "id": "praxeology-of-privacy",
+        "op": "added"
+      },
+      {
+        "id": "problem-of-political-authority",
+        "op": "added"
+      },
+      {
+        "id": "property-freedom-society",
+        "op": "added"
+      },
+      {
+        "id": "psychopolitics",
+        "op": "added"
+      },
+      {
+        "id": "public-domain",
+        "op": "added"
+      },
+      {
+        "id": "reinventing-organizations",
+        "op": "added"
+      },
+      {
+        "id": "singularity-is-near",
+        "op": "added"
+      },
+      {
+        "id": "small-is-beautiful",
+        "op": "added"
+      },
+      {
+        "id": "sovereign-individual",
+        "op": "added"
+      },
+      {
+        "id": "starfish-and-spider",
+        "op": "added"
+      },
+      {
+        "id": "stuck-on-the-platform",
+        "op": "added"
+      },
+      {
+        "id": "superintelligence",
+        "op": "added"
+      },
+      {
+        "id": "surveillance-capitalism",
+        "op": "added"
+      },
+      {
+        "id": "taz",
+        "op": "added"
+      },
+      {
+        "id": "the-genesis-book",
+        "op": "added"
+      },
+      {
+        "id": "this-machine-kills-secrets",
+        "op": "added"
+      },
+      {
+        "id": "tools-for-conviviality",
+        "op": "added"
+      },
+      {
+        "id": "tor-collier",
+        "op": "added"
+      },
+      {
+        "id": "tracers-in-the-dark",
+        "op": "added"
+      },
+      {
+        "id": "understanding-institutional-diversity",
+        "op": "added"
+      },
+      {
+        "id": "vanishing-culture",
+        "op": "added"
+      },
+      {
+        "id": "weapons-of-math-destruction",
+        "op": "added"
+      },
+      {
+        "id": "word-for-world-is-forest",
+        "op": "added"
+      },
+      {
+        "id": "working-in-public",
+        "op": "added"
+      }
+    ]
+  }
+]

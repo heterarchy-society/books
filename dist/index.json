@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-05-22T22:48:05.246Z",
+    "generated": "2026-05-23T00:06:07.110Z",
     "version": "1.0.0",
     "books": {
       "count": 61
@@ -39,7 +39,19 @@
         "name": "Internet Archive",
         "href": "https://archive.org/details/nineteen-eighty-four-1984"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "against-intellectual-property",
@@ -73,7 +85,19 @@
         "name": "Sovereign Engineering",
         "href": "https://sovereignengineering.io/books"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "agorism-21st-century",
@@ -112,7 +136,19 @@
         "name": "DarkFi",
         "href": "https://confoederatio.noblogs.org/post/2022/02/19/agorism-in-the-21st-century-1/"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "algorithms-of-resistance",
@@ -152,7 +188,19 @@
         "name": "MIT Press Direct",
         "href": "https://direct.mit.edu/books/oa-monograph/5721/Algorithms-of-ResistanceThe-Everyday-Fight-against"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "alignment-problem",
@@ -185,7 +233,19 @@
         "name": "Sovereign Engineering",
         "href": "https://sovereignengineering.io/books"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "anarchokapitalismus",
@@ -234,7 +294,19 @@
         "name": "Mises.cz",
         "href": "https://www.mises.cz/literatura/anarchokapitalismus-69.aspx"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "animal-farm",
@@ -268,7 +340,19 @@
         "name": "Internet Archive",
         "href": "https://archive.org/details/animal-farm-by-george-orwell"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "applied-cryptography",
@@ -302,7 +386,19 @@
         "name": "Bruce Schneier",
         "href": "https://www.schneier.com/books/applied-cryptography/"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "blockchain-radicals",
@@ -336,7 +432,19 @@
         "name": "Repeater Books",
         "href": "https://repeaterbooks.com/product/blockchain-radicals-how-capitalism-ruined-crypto-and-how-to-fix-it/"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "cathedral-bazaar",
@@ -369,7 +477,19 @@
         "name": "Sovereign Engineering",
         "href": "https://sovereignengineering.io/books"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "chasing-shadows",
@@ -403,7 +523,19 @@
         "name": "Simon & Schuster",
         "href": "https://chasingshadowsbook.ca/"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "copyrights-and-copywrongs",
@@ -437,7 +569,19 @@
         "name": "NYU Press",
         "href": "https://nyupress.org/9780814788073/copyrights-and-copywrongs/"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "crypto-levy",
@@ -471,7 +615,19 @@
         "name": "Internet Archive",
         "href": "https://archive.org/details/cryptohowcodereb00levy"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "cypherpunk-ethics",
@@ -510,7 +666,19 @@
         "name": "Parallel Polis",
         "href": "https://parallelpolis.info/books"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "dark-matters",
@@ -549,7 +717,19 @@
         "name": "Parallel Polis",
         "href": "https://parallelpolis.info/books"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "dawn-of-everything",
@@ -583,7 +763,19 @@
         "name": "Macmillan",
         "href": "https://us.macmillan.com/books/9780374157357/thedawnofeverything"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "democracy-god-that-failed",
@@ -618,7 +810,19 @@
         "name": "Mises Institute",
         "href": "https://mises.org/library/book/democracy-god-failed"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "deschooling-society",
@@ -652,7 +856,19 @@
         "name": "Internet Archive",
         "href": "https://archive.org/details/deschoolingsoci000illi"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "dispossessed",
@@ -686,7 +902,19 @@
         "name": "Ursula K. Le Guin",
         "href": "https://www.ursulakleguin.com/the-dispossessed"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "endurance-shackleton",
@@ -719,7 +947,19 @@
         "name": "Sovereign Engineering",
         "href": "https://sovereignengineering.io/books"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "enshittification",
@@ -763,7 +1003,19 @@
         "name": "Cory Doctorow",
         "href": "https://craphound.com/enshittification/"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "ethics-of-liberty",
@@ -797,7 +1049,19 @@
         "name": "Mises Institute",
         "href": "https://mises.org/library/book/ethics-liberty"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "extreme-privacy",
@@ -836,7 +1100,19 @@
         "name": "Parallel Polis",
         "href": "https://parallelpolis.info/books"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "farewell-to-westphalia",
@@ -887,7 +1163,19 @@
         "name": "Logos",
         "href": "https://logos.co/farewell-to-westphalia"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "finite-infinite-games",
@@ -919,7 +1207,19 @@
         "name": "Sovereign Engineering",
         "href": "https://sovereignengineering.io/books"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "for-a-new-liberty",
@@ -953,7 +1253,19 @@
         "name": "Mises Institute",
         "href": "https://mises.org/library/book/new-liberty-libertarian-manifesto"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "forest-passage",
@@ -993,7 +1305,19 @@
         "name": "Parallel Polis",
         "href": "https://parallelpolis.info/books"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "free-culture",
@@ -1027,7 +1351,19 @@
         "name": "Lawrence Lessig",
         "href": "https://lessig.org/product/free-culture/"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "free-software-free-society",
@@ -1061,7 +1397,19 @@
         "name": "Sovereign Engineering",
         "href": "https://sovereignengineering.io/books"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "governing-the-commons",
@@ -1095,7 +1443,19 @@
         "name": "Cambridge University Press",
         "href": "https://www.cambridge.org/core/books/governing-the-commons/A8BB63BC4A1433A50A3FB92EDBBB97D5"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "lodging-wayfaring-men",
@@ -1129,7 +1489,19 @@
         "name": "Sovereign Engineering",
         "href": "https://sovereignengineering.io/books"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "man-economy-state",
@@ -1163,7 +1535,19 @@
         "name": "Mises Institute",
         "href": "https://mises.org/library/book/man-economy-and-state-power-and-market"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "means-of-control",
@@ -1202,7 +1586,19 @@
         "name": "Parallel Polis",
         "href": "https://parallelpolis.info/books"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "medical-nemesis",
@@ -1236,7 +1632,19 @@
         "name": "Internet Archive",
         "href": "https://archive.org/details/medicalnemesisso00illi"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "network-state",
@@ -1270,7 +1678,19 @@
         "name": "Sovereign Engineering",
         "href": "https://sovereignengineering.io/books"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "permanent-record",
@@ -1304,7 +1724,19 @@
         "name": "Macmillan",
         "href": "https://www.macmillanpublishers.com/ww/b/permanent-record"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "platform-brutality",
@@ -1338,7 +1770,19 @@
         "name": "Valiz",
         "href": "https://valiz.nl/en/publications/platform-brutality"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "praxeology-of-privacy",
@@ -1388,7 +1832,19 @@
         "name": "Towards Liberty",
         "href": "https://pay.towardsliberty.com/apps/v5yU4xADsJJjxF3foYPDPFd1Snj/pos"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "problem-of-political-authority",
@@ -1422,7 +1878,19 @@
         "name": "Palgrave Macmillan",
         "href": "https://www.amazon.com/Problem-Political-Authority-Examination-Coerce/dp/1137281650"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "property-freedom-society",
@@ -1456,7 +1924,19 @@
         "name": "Sovereign Engineering",
         "href": "https://sovereignengineering.io/books"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "psychopolitics",
@@ -1495,7 +1975,19 @@
         "name": "Parallel Polis",
         "href": "https://parallelpolis.info/books"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "public-domain",
@@ -1529,7 +2021,19 @@
         "name": "Yale University Press",
         "href": "https://www.thepublicdomain.org/"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "reinventing-organizations",
@@ -1563,7 +2067,19 @@
         "name": "Reinventing Organizations",
         "href": "https://www.reinventingorganizations.com/"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "singularity-is-near",
@@ -1596,7 +2112,19 @@
         "name": "Sovereign Engineering",
         "href": "https://sovereignengineering.io/books"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "small-is-beautiful",
@@ -1630,7 +2158,19 @@
         "name": "Internet Archive",
         "href": "https://archive.org/details/smallisbeautiful00schu"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "sovereign-individual",
@@ -1663,7 +2203,19 @@
         "name": "Sovereign Engineering",
         "href": "https://sovereignengineering.io/books"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "starfish-and-spider",
@@ -1697,7 +2249,19 @@
         "name": "Portfolio",
         "href": "https://www.penguinrandomhouse.com/books/298985/the-starfish-and-the-spider-by-ori-brafman-and-rod-a-beckstrom/"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "stuck-on-the-platform",
@@ -1736,7 +2300,19 @@
         "name": "Parallel Polis",
         "href": "https://parallelpolis.info/books"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "superintelligence",
@@ -1769,7 +2345,19 @@
         "name": "Sovereign Engineering",
         "href": "https://sovereignengineering.io/books"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "surveillance-capitalism",
@@ -1803,7 +2391,19 @@
         "name": "PublicAffairs",
         "href": "https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "taz",
@@ -1837,7 +2437,19 @@
         "name": "Internet Archive",
         "href": "https://archive.org/details/T.A.Z.TheTemporaryAutonomousZoneOntologicalAnarchyPoeticTerrorism"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "the-genesis-book",
@@ -1881,7 +2493,19 @@
         "name": "Bitcoin Magazine Books",
         "href": "https://store.bitcoinmagazine.com/collections/books/products/the-genesis-book"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "this-machine-kills-secrets",
@@ -1915,7 +2539,19 @@
         "name": "Dutton",
         "href": "https://www.penguinrandomhouse.com/books/311549/this-machine-kills-secrets-by-andy-greenberg/"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "tools-for-conviviality",
@@ -1949,7 +2585,19 @@
         "name": "Internet Archive",
         "href": "https://archive.org/details/illich-tools-for-conviviality"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "tor-collier",
@@ -1993,7 +2641,19 @@
         "name": "MIT Press",
         "href": "https://mitpress.mit.edu/9780262548182/tor/"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "tracers-in-the-dark",
@@ -2032,7 +2692,19 @@
         "name": "Parallel Polis",
         "href": "https://parallelpolis.info/books"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "understanding-institutional-diversity",
@@ -2070,7 +2742,19 @@
         "name": "Princeton University Press",
         "href": "https://press.princeton.edu/books/paperback/9780691122380/understanding-institutional-diversity"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "vanishing-culture",
@@ -2104,7 +2788,19 @@
         "name": "Internet Archive",
         "href": "https://archive.org/details/vanishing-culture-2026"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "weapons-of-math-destruction",
@@ -2138,7 +2834,19 @@
         "name": "Crown",
         "href": "https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "word-for-world-is-forest",
@@ -2172,7 +2880,19 @@
         "name": "Ursula K. Le Guin",
         "href": "https://www.ursulakleguin.com/the-word-for-world-is-forest"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     },
     {
       "id": "working-in-public",
@@ -2206,7 +2926,19 @@
         "name": "Stripe Press",
         "href": "https://press.stripe.com/working-in-public"
       },
-      "history": []
+      "history": [
+        {
+          "hash": "ab004021880641b07830715c272ff89af65167bb",
+          "date": "2026-05-23T00:52:25+02:00",
+          "author": "tree",
+          "message": "initial commit"
+        }
+      ],
+      "authors": [
+        {
+          "name": "tree"
+        }
+      ]
     }
   ]
 }

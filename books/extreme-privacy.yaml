@@ -8,6 +8,7 @@ language: [en]
 formats: [print, ebook]
 physical: false
 tags: [privacy, opsec, security, practical]
+glossary: [privacy, opsec, digital-self-defense, anonymous-communication, 2fa, air-gap, vpn]
 links:
   - href: https://www.amazon.com/Extreme-Privacy-What-Takes-Disappear-dp-B0DCJN61GF/dp/B0DCJN61GF
     label: "→ koupit (Amazon)"

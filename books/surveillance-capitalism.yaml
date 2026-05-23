@@ -8,6 +8,7 @@ language: [en]
 formats: [print, ebook]
 physical: false
 tags: [surveillance, capitalism, platforms, power]
+glossary: [surveillance-capitalism, privacy, mass-surveillance, consent]
 links:
   - href: https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/
     label: "→ web knihy"

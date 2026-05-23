@@ -8,6 +8,7 @@ language: [en]
 formats: [print, ebook]
 physical: false
 tags: [surveillance, privacy, whistleblowing, state]
+glossary: [mass-surveillance, whistleblowing, privacy, surveillance-capitalism]
 links:
   - href: https://www.macmillanpublishers.com/ww/b/permanent-record
     label: "→ web knihy"

@@ -8,6 +8,7 @@ language: [en]
 formats: [print, ebook]
 physical: false
 tags: [cypherpunk, cryptography, history, privacy]
+glossary: [crypto-wars, cypherpunk, cryptography, encryption, privacy]
 links:
   - href: https://archive.org/details/cryptohowcodereb00levy
     label: "→ číst na archive.org"

@@ -8,6 +8,7 @@ language: [en]
 formats: [pdf, ebook]
 physical: false
 tags: [open-source, software, freedom, copyright]
+glossary: [foss, open-source, digital-freedom]
 links:
   - href: https://www.gnu.org/philosophy/fsfs/rms-essays.pdf
     label: "→ stáhnout PDF"

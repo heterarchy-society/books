@@ -8,6 +8,7 @@ language: [en]
 formats: [pdf, web]
 physical: false
 tags: [knowledge-commons, censorship, archives, internet]
+glossary: [censorship-resistance, shadow-library, the-commons, piracy]
 links:
   - href: https://archive.org/details/vanishing-culture-2026
     label: "→ číst na archive.org"

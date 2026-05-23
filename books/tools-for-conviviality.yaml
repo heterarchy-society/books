@@ -8,6 +8,7 @@ language: [en]
 formats: [pdf, ebook]
 physical: false
 tags: [technology, autonomy, institutions, decentralization]
+glossary: [digital-autonomy, open-hardware, distributed-manufacturing, decentralization]
 links:
   - href: https://archive.org/details/illich-tools-for-conviviality
     label: "→ číst na archive.org"

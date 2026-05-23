@@ -8,6 +8,7 @@ language: [en]
 formats: [web, ebook]
 physical: false
 tags: [ai, ethics, technology]
+glossary: [machine-learning, information-ethics]
 links:
   - href: https://brianchristian.org/the-alignment-problem/
     label: "→ více o knize"

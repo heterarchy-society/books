@@ -8,6 +8,7 @@ language: [en]
 formats: [web]
 physical: false
 tags: [open-source, decentralization, software, community]
+glossary: [open-source, foss, decentralization]
 links:
   - href: http://www.catb.org/~esr/writings/cathedral-bazaar/
     label: "→ číst online"

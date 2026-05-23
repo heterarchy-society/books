@@ -8,6 +8,7 @@ language: [en]
 formats: [print, ebook]
 physical: false
 tags: [platforms, internet, media-criticism, social-media]
+glossary: [digital-autonomy, chilling-effect]
 links:
   - href: https://valiz.nl/en/publications/platform-brutality
     label: "→ Valiz"

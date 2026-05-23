@@ -8,6 +8,7 @@ language: [en]
 formats: [print, ebook]
 physical: false
 tags: [organization, self-management, coordination, governance]
+glossary: [heterarchy, decentralization, voluntary-association]
 links:
   - href: https://www.reinventingorganizations.com/
     label: "→ web knihy"

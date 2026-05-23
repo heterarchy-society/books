@@ -8,6 +8,7 @@ language: [en]
 formats: [print, ebook]
 physical: false
 tags: [privacy, cypherpunk, infrastructure, history]
+glossary: [tor, onion-routing, privacy, anonymous-communication, darknet]
 links:
   - href: https://mitpress.mit.edu/9780262548182/tor/
     label: "→ MIT Press"

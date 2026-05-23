@@ -8,6 +8,7 @@ language: [cs]
 formats: [pdf, ebook]
 physical: false
 tags: [anarcho-capitalism, economics, libertarianism, czech]
+glossary: [anarchocapitalism, libertarianism, free-market, nap]
 links:
   - href: https://www.mises.cz/database/literatura/69.pdf
     label: "→ stáhnout PDF"

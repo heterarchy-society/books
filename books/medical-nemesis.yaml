@@ -8,6 +8,7 @@ language: [en]
 formats: [pdf, ebook]
 physical: false
 tags: [institutions, autonomy, health, critique]
+glossary: [digital-autonomy, consent, voluntary-association]
 links:
   - href: https://archive.org/details/medicalnemesisso00illi
     label: "→ číst na archive.org"

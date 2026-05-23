@@ -8,6 +8,7 @@ language: [en]
 formats: [print, ebook]
 physical: false
 tags: [algorithms, power, surveillance, ai]
+glossary: [machine-learning, information-asymmetry, information-ethics, mass-surveillance]
 links:
   - href: https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/
     label: "→ web knihy"

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-05-23T00:06:07.110Z",
+    "generated": "2026-05-23T00:10:08.980Z",
     "version": "1.0.0",
     "books": {
       "count": 61
@@ -27,6 +27,11 @@
         "dystopia",
         "surveillance",
         "totalitarianism"
+      ],
+      "glossary": [
+        "mass-surveillance",
+        "panopticon",
+        "chilling-effect"
       ],
       "links": [
         {
@@ -74,6 +79,11 @@
         "libertarianism",
         "law"
       ],
+      "glossary": [
+        "libertarianism",
+        "anarchocapitalism",
+        "free-market"
+      ],
       "links": [
         {
           "href": "https://mises.org/library/book/against-intellectual-property",
@@ -119,6 +129,15 @@
         "crypto",
         "cypherpunk",
         "philosophy"
+      ],
+      "glossary": [
+        "agorism",
+        "counter-economics",
+        "cypherpunk",
+        "nft",
+        "defi",
+        "dao",
+        "zero-knowledge-proof"
       ],
       "links": [
         {
@@ -172,6 +191,11 @@
         "resistance",
         "media-criticism"
       ],
+      "glossary": [
+        "machine-learning",
+        "digital-autonomy",
+        "information-asymmetry"
+      ],
       "links": [
         {
           "href": "https://direct.mit.edu/books/oa-monograph/5721/Algorithms-of-ResistanceThe-Everyday-Fight-against",
@@ -222,6 +246,10 @@
         "ethics",
         "technology"
       ],
+      "glossary": [
+        "machine-learning",
+        "information-ethics"
+      ],
       "links": [
         {
           "href": "https://brianchristian.org/the-alignment-problem/",
@@ -267,6 +295,12 @@
         "economics",
         "libertarianism",
         "czech"
+      ],
+      "glossary": [
+        "anarchocapitalism",
+        "libertarianism",
+        "free-market",
+        "nap"
       ],
       "links": [
         {
@@ -375,6 +409,12 @@
         "technical",
         "cypherpunk"
       ],
+      "glossary": [
+        "cryptography",
+        "encryption",
+        "public-key-cryptography",
+        "digital-signature"
+      ],
       "links": [
         {
           "href": "https://www.schneier.com/books/applied-cryptography/",
@@ -421,6 +461,13 @@
         "economics",
         "left-libertarianism"
       ],
+      "glossary": [
+        "blockchain",
+        "cryptocurrency",
+        "defi",
+        "dao",
+        "the-commons"
+      ],
       "links": [
         {
           "href": "https://repeaterbooks.com/product/blockchain-radicals-how-capitalism-ruined-crypto-and-how-to-fix-it/",
@@ -465,6 +512,11 @@
         "decentralization",
         "software",
         "community"
+      ],
+      "glossary": [
+        "open-source",
+        "foss",
+        "decentralization"
       ],
       "links": [
         {
@@ -512,6 +564,11 @@
         "cyber-espionage",
         "journalism"
       ],
+      "glossary": [
+        "mass-surveillance",
+        "digital-self-defense",
+        "privacy"
+      ],
       "links": [
         {
           "href": "https://chasingshadowsbook.ca/",
@@ -557,6 +614,10 @@
         "culture",
         "law",
         "media-criticism"
+      ],
+      "glossary": [
+        "the-commons",
+        "piracy"
       ],
       "links": [
         {
@@ -604,6 +665,13 @@
         "history",
         "privacy"
       ],
+      "glossary": [
+        "crypto-wars",
+        "cypherpunk",
+        "cryptography",
+        "encryption",
+        "privacy"
+      ],
       "links": [
         {
           "href": "https://archive.org/details/cryptohowcodereb00levy",
@@ -649,6 +717,13 @@
         "ethics",
         "privacy",
         "cryptography"
+      ],
+      "glossary": [
+        "cypherpunk",
+        "cryptoanarchy",
+        "privacy",
+        "cryptography",
+        "digital-autonomy"
       ],
       "links": [
         {
@@ -701,6 +776,11 @@
         "power",
         "resistance"
       ],
+      "glossary": [
+        "mass-surveillance",
+        "sousveillance",
+        "panopticon"
+      ],
       "links": [
         {
           "href": "https://www.amazon.com/Dark-Matters-Surveillance-Simone-Browne/dp/0822359383",
@@ -752,6 +832,12 @@
         "history",
         "decentralization"
       ],
+      "glossary": [
+        "anarchism",
+        "decentralization",
+        "heterarchy",
+        "polycentric-law"
+      ],
       "links": [
         {
           "href": "https://us.macmillan.com/books/9780374157357/thedawnofeverything",
@@ -799,6 +885,11 @@
         "state",
         "political-theory"
       ],
+      "glossary": [
+        "anarchocapitalism",
+        "libertarianism",
+        "free-market"
+      ],
       "links": [
         {
           "href": "https://mises.org/library/book/democracy-god-failed",
@@ -845,6 +936,11 @@
         "decentralization",
         "autonomy"
       ],
+      "glossary": [
+        "alternative-education-systems",
+        "decentralization",
+        "digital-autonomy"
+      ],
       "links": [
         {
           "href": "https://archive.org/details/deschoolingsoci000illi",
@@ -890,6 +986,11 @@
         "anarchism",
         "utopia",
         "sci-fi"
+      ],
+      "glossary": [
+        "anarchism",
+        "mutualism",
+        "voluntary-association"
       ],
       "links": [
         {
@@ -982,6 +1083,11 @@
         "capitalism",
         "decentralization"
       ],
+      "glossary": [
+        "decentralization",
+        "open-source",
+        "digital-autonomy"
+      ],
       "links": [
         {
           "href": "https://craphound.com/enshittification/",
@@ -1038,6 +1144,12 @@
         "philosophy",
         "natural-law"
       ],
+      "glossary": [
+        "libertarianism",
+        "anarchocapitalism",
+        "nap",
+        "voluntary-association"
+      ],
       "links": [
         {
           "href": "https://mises.org/library/book/ethics-liberty",
@@ -1083,6 +1195,15 @@
         "opsec",
         "security",
         "practical"
+      ],
+      "glossary": [
+        "privacy",
+        "opsec",
+        "digital-self-defense",
+        "anonymous-communication",
+        "2fa",
+        "air-gap",
+        "vpn"
       ],
       "links": [
         {
@@ -1136,6 +1257,12 @@
         "sovereignty",
         "crypto",
         "decentralization"
+      ],
+      "glossary": [
+        "post-state-governance-models",
+        "self-sovereignty",
+        "decentralization",
+        "dao"
       ],
       "links": [
         {
@@ -1196,6 +1323,10 @@
         "coordination",
         "game-theory"
       ],
+      "glossary": [
+        "game-theory",
+        "schelling-point"
+      ],
       "links": [
         {
           "href": "https://archive.org/details/finiteinfinitega00carsrich",
@@ -1241,6 +1372,13 @@
         "libertarianism",
         "state",
         "freedom"
+      ],
+      "glossary": [
+        "libertarianism",
+        "anarchocapitalism",
+        "voluntary-association",
+        "free-market",
+        "nap"
       ],
       "links": [
         {
@@ -1288,6 +1426,11 @@
         "philosophy",
         "sovereignty",
         "state"
+      ],
+      "glossary": [
+        "self-sovereignty",
+        "exit-and-voice",
+        "digital-autonomy"
       ],
       "links": [
         {
@@ -1340,6 +1483,12 @@
         "internet",
         "freedom"
       ],
+      "glossary": [
+        "the-commons",
+        "open-source",
+        "piracy",
+        "censorship-resistance"
+      ],
       "links": [
         {
           "href": "https://lessig.org/product/free-culture/",
@@ -1385,6 +1534,11 @@
         "software",
         "freedom",
         "copyright"
+      ],
+      "glossary": [
+        "foss",
+        "open-source",
+        "digital-freedom"
       ],
       "links": [
         {
@@ -1432,6 +1586,12 @@
         "coordination",
         "self-organization"
       ],
+      "glossary": [
+        "the-commons",
+        "polycentric-law",
+        "voluntary-association",
+        "game-theory"
+      ],
       "links": [
         {
           "href": "https://www.cambridge.org/core/books/governing-the-commons/A8BB63BC4A1433A50A3FB92EDBBB97D5",
@@ -1477,6 +1637,12 @@
         "cypherpunk",
         "sovereignty",
         "parallel-structures"
+      ],
+      "glossary": [
+        "cypherpunk",
+        "parallel-society",
+        "digital-autonomy",
+        "self-sovereignty"
       ],
       "links": [
         {
@@ -1524,6 +1690,11 @@
         "anarcho-capitalism",
         "praxeology"
       ],
+      "glossary": [
+        "free-market",
+        "libertarianism",
+        "anarchocapitalism"
+      ],
       "links": [
         {
           "href": "https://mises.org/library/book/man-economy-and-state-power-and-market",
@@ -1569,6 +1740,12 @@
         "privacy",
         "state",
         "technology"
+      ],
+      "glossary": [
+        "mass-surveillance",
+        "surveillance-capitalism",
+        "privacy",
+        "digital-identity"
       ],
       "links": [
         {
@@ -1621,6 +1798,11 @@
         "health",
         "critique"
       ],
+      "glossary": [
+        "digital-autonomy",
+        "consent",
+        "voluntary-association"
+      ],
       "links": [
         {
           "href": "https://archive.org/details/medicalnemesisso00illi",
@@ -1666,6 +1848,12 @@
         "sovereignty",
         "decentralization",
         "crypto"
+      ],
+      "glossary": [
+        "post-state-governance-models",
+        "self-sovereignty",
+        "decentralization",
+        "dao"
       ],
       "links": [
         {
@@ -1713,6 +1901,12 @@
         "whistleblowing",
         "state"
       ],
+      "glossary": [
+        "mass-surveillance",
+        "whistleblowing",
+        "privacy",
+        "surveillance-capitalism"
+      ],
       "links": [
         {
           "href": "https://www.macmillanpublishers.com/ww/b/permanent-record",
@@ -1758,6 +1952,10 @@
         "internet",
         "media-criticism",
         "social-media"
+      ],
+      "glossary": [
+        "digital-autonomy",
+        "chilling-effect"
       ],
       "links": [
         {
@@ -1805,6 +2003,13 @@
         "cypherpunk",
         "economics",
         "cryptography"
+      ],
+      "glossary": [
+        "privacy",
+        "cypherpunk",
+        "cryptography",
+        "digital-self-defense",
+        "self-sovereignty"
       ],
       "links": [
         {
@@ -1867,6 +2072,12 @@
         "state",
         "political-theory"
       ],
+      "glossary": [
+        "anarchocapitalism",
+        "libertarianism",
+        "voluntary-association",
+        "nap"
+      ],
       "links": [
         {
           "href": "https://www.amazon.com/Problem-Political-Authority-Examination-Coerce/dp/1137281650",
@@ -1913,6 +2124,11 @@
         "property",
         "economics"
       ],
+      "glossary": [
+        "libertarianism",
+        "anarchocapitalism",
+        "free-market"
+      ],
       "links": [
         {
           "href": "https://cdn.mises.org/Property,%20Freedom,%20and%20Society%20Essays%20in%20Honor%20of%20Hans-Hermann%20Hoppe_2.pdf",
@@ -1958,6 +2174,11 @@
         "power",
         "surveillance",
         "neoliberalism"
+      ],
+      "glossary": [
+        "surveillance-capitalism",
+        "chilling-effect",
+        "consent"
       ],
       "links": [
         {
@@ -2010,6 +2231,11 @@
         "law",
         "culture"
       ],
+      "glossary": [
+        "the-commons",
+        "piracy",
+        "shadow-library"
+      ],
       "links": [
         {
           "href": "https://www.thepublicdomain.org/download/",
@@ -2056,6 +2282,11 @@
         "coordination",
         "governance"
       ],
+      "glossary": [
+        "heterarchy",
+        "decentralization",
+        "voluntary-association"
+      ],
       "links": [
         {
           "href": "https://www.reinventingorganizations.com/",
@@ -2100,6 +2331,11 @@
         "technology",
         "futurism",
         "transhumanism"
+      ],
+      "glossary": [
+        "singularity",
+        "transhumanism",
+        "machine-learning"
       ],
       "links": [
         {
@@ -2147,6 +2383,11 @@
         "ecology",
         "autonomy"
       ],
+      "glossary": [
+        "decentralization",
+        "digital-autonomy",
+        "off-grid-living"
+      ],
       "links": [
         {
           "href": "https://archive.org/details/smallisbeautiful00schu",
@@ -2191,6 +2432,12 @@
         "sovereignty",
         "technology",
         "economics"
+      ],
+      "glossary": [
+        "self-sovereignty",
+        "digital-autonomy",
+        "cryptocurrency",
+        "post-state-governance-models"
       ],
       "links": [
         {
@@ -2238,6 +2485,11 @@
         "coordination",
         "resilience"
       ],
+      "glossary": [
+        "decentralization",
+        "p2p",
+        "mesh-networks"
+      ],
       "links": [
         {
           "href": "https://www.penguinrandomhouse.com/books/298985/the-starfish-and-the-spider-by-ori-brafman-and-rod-a-beckstrom/",
@@ -2282,6 +2534,10 @@
         "platforms",
         "internet",
         "media-criticism",
+        "decentralization"
+      ],
+      "glossary": [
+        "digital-autonomy",
         "decentralization"
       ],
       "links": [
@@ -2334,6 +2590,11 @@
         "technology",
         "futurism"
       ],
+      "glossary": [
+        "singularity",
+        "machine-learning",
+        "information-ethics"
+      ],
       "links": [
         {
           "href": "https://archive.org/details/superintelligenc0000bost",
@@ -2379,6 +2640,12 @@
         "capitalism",
         "platforms",
         "power"
+      ],
+      "glossary": [
+        "surveillance-capitalism",
+        "privacy",
+        "mass-surveillance",
+        "consent"
       ],
       "links": [
         {
@@ -2426,6 +2693,12 @@
         "parallel-structures",
         "resistance"
       ],
+      "glossary": [
+        "parallel-society",
+        "anarchism",
+        "hackerspace",
+        "underground-art-and-culture"
+      ],
       "links": [
         {
           "href": "https://archive.org/details/T.A.Z.TheTemporaryAutonomousZoneOntologicalAnarchyPoeticTerrorism",
@@ -2471,6 +2744,14 @@
         "crypto",
         "cypherpunk",
         "history"
+      ],
+      "glossary": [
+        "bitcoin",
+        "cypherpunk",
+        "cryptocurrency",
+        "proof-of-work",
+        "double-spending-problem",
+        "public-key-cryptography"
       ],
       "links": [
         {
@@ -2528,6 +2809,13 @@
         "privacy",
         "journalism"
       ],
+      "glossary": [
+        "cypherpunk",
+        "whistleblowing",
+        "dead-drop",
+        "cryptography",
+        "privacy"
+      ],
       "links": [
         {
           "href": "https://www.penguinrandomhouse.com/books/311549/this-machine-kills-secrets-by-andy-greenberg/",
@@ -2572,6 +2860,12 @@
         "technology",
         "autonomy",
         "institutions",
+        "decentralization"
+      ],
+      "glossary": [
+        "digital-autonomy",
+        "open-hardware",
+        "distributed-manufacturing",
         "decentralization"
       ],
       "links": [
@@ -2619,6 +2913,13 @@
         "cypherpunk",
         "infrastructure",
         "history"
+      ],
+      "glossary": [
+        "tor",
+        "onion-routing",
+        "privacy",
+        "anonymous-communication",
+        "darknet"
       ],
       "links": [
         {
@@ -2676,6 +2977,13 @@
         "surveillance",
         "journalism"
       ],
+      "glossary": [
+        "bitcoin",
+        "blockchain",
+        "cryptocurrency",
+        "pseudonimity",
+        "privacy"
+      ],
       "links": [
         {
           "href": "https://www.amazon.com/Tracers-Dark-Global-Crime-Cryptocurrency/dp/0385548095",
@@ -2725,6 +3033,11 @@
         "institutions",
         "commons",
         "polycentric"
+      ],
+      "glossary": [
+        "polycentric-law",
+        "the-commons",
+        "game-theory"
       ],
       "links": [
         {
@@ -2777,6 +3090,12 @@
         "archives",
         "internet"
       ],
+      "glossary": [
+        "censorship-resistance",
+        "shadow-library",
+        "the-commons",
+        "piracy"
+      ],
       "links": [
         {
           "href": "https://archive.org/details/vanishing-culture-2026",
@@ -2822,6 +3141,12 @@
         "power",
         "surveillance",
         "ai"
+      ],
+      "glossary": [
+        "machine-learning",
+        "information-asymmetry",
+        "information-ethics",
+        "mass-surveillance"
       ],
       "links": [
         {
@@ -2914,6 +3239,11 @@
         "community",
         "coordination",
         "software"
+      ],
+      "glossary": [
+        "open-source",
+        "foss",
+        "web-of-trust"
       ],
       "links": [
         {

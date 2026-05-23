@@ -8,6 +8,7 @@ language: [en]
 formats: [print, ebook]
 physical: false
 tags: [philosophy, power, surveillance, neoliberalism]
+glossary: [surveillance-capitalism, chilling-effect, consent]
 links:
   - href: https://www.amazon.com/Psychopolitics-Neoliberalism-New-Technologies-Power/dp/1784785776
     label: "→ koupit (Amazon)"

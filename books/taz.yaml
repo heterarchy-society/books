@@ -8,6 +8,7 @@ language: [en]
 formats: [pdf, web]
 physical: false
 tags: [anarchism, autonomy, parallel-structures, resistance]
+glossary: [parallel-society, anarchism, hackerspace, underground-art-and-culture]
 links:
   - href: https://archive.org/details/T.A.Z.TheTemporaryAutonomousZoneOntologicalAnarchyPoeticTerrorism
     label: "→ číst na archive.org"

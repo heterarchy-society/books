@@ -8,6 +8,7 @@ language: [en]
 formats: [ebook, print]
 physical: false
 tags: [fiction, dystopia, surveillance, totalitarianism]
+glossary: [mass-surveillance, panopticon, chilling-effect]
 links:
   - href: https://archive.org/details/nineteen-eighty-four-1984
     label: "→ číst na archive.org"

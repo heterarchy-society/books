@@ -8,6 +8,7 @@ language: [en]
 formats: [pdf, web]
 physical: false
 tags: [copyright, knowledge-commons, law, culture]
+glossary: [the-commons, piracy, shadow-library]
 links:
   - href: https://www.thepublicdomain.org/download/
     label: "→ stáhnout zdarma"

@@ -8,6 +8,7 @@ language: [en]
 formats: [print, ebook]
 physical: false
 tags: [platforms, internet, media-criticism, decentralization]
+glossary: [digital-autonomy, decentralization]
 links:
   - href: https://www.amazon.com/Stuck-Platform-Reclaiming-Geert-Lovink/dp/9493246086
     label: "→ koupit (Amazon)"

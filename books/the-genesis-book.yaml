@@ -8,6 +8,7 @@ language: [en]
 formats: [print, ebook]
 physical: false
 tags: [bitcoin, crypto, cypherpunk, history]
+glossary: [bitcoin, cypherpunk, cryptocurrency, proof-of-work, double-spending-problem, public-key-cryptography]
 links:
   - href: https://store.bitcoinmagazine.com/collections/books/products/the-genesis-book
     label: "→ Bitcoin Magazine Store"

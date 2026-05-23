@@ -8,6 +8,7 @@ language: [en]
 formats: [pdf, ebook]
 physical: false
 tags: [anarcho-capitalism, ethics, philosophy, natural-law]
+glossary: [libertarianism, anarchocapitalism, nap, voluntary-association]
 links:
   - href: https://mises.org/library/book/ethics-liberty
     label: "→ číst na mises.org"

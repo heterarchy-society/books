@@ -8,6 +8,7 @@ language: [en]
 formats: [pdf, ebook, print, web]
 physical: false
 tags: [governance, sovereignty, crypto, decentralization]
+glossary: [post-state-governance-models, self-sovereignty, decentralization, dao]
 links:
   - href: "https://logos.co/assets/Farewell%20to%20Westphalia%20(Jarrad%20Hope%20and%20Peter%20Ludlow)%20-%20FOSS%20edition.pdf"
     label: "→ stáhnout PDF (zdarma)"

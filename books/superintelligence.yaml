@@ -8,6 +8,7 @@ language: [en]
 formats: [ebook]
 physical: false
 tags: [ai, existential-risk, technology, futurism]
+glossary: [singularity, machine-learning, information-ethics]
 links:
   - href: https://archive.org/details/superintelligenc0000bost
     label: "→ číst na archive.org"

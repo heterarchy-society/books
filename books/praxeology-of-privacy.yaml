@@ -8,6 +8,7 @@ language: [en]
 formats: [pdf, ebook, print]
 physical: false
 tags: [privacy, cypherpunk, economics, cryptography]
+glossary: [privacy, cypherpunk, cryptography, digital-self-defense, self-sovereignty]
 links:
   - href: https://pay.towardsliberty.com/Storage/c38551e1-9fc8-44f8-b295-8de7773546f4
     label: "→ stáhnout PDF (zdarma)"

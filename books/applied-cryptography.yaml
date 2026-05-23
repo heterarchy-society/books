@@ -8,6 +8,7 @@ language: [en]
 formats: [print, ebook]
 physical: false
 tags: [cryptography, security, technical, cypherpunk]
+glossary: [cryptography, encryption, public-key-cryptography, digital-signature]
 links:
   - href: https://www.schneier.com/books/applied-cryptography/
     label: "→ web knihy"

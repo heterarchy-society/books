@@ -8,6 +8,7 @@ language: [en]
 formats: [print, ebook]
 physical: false
 tags: [governance, commons, coordination, self-organization]
+glossary: [the-commons, polycentric-law, voluntary-association, game-theory]
 links:
   - href: https://www.cambridge.org/core/books/governing-the-commons/A8BB63BC4A1433A50A3FB92EDBBB97D5
     label: "→ Cambridge UP"

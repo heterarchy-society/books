@@ -8,6 +8,7 @@ language: [en]
 formats: [print, ebook]
 physical: false
 tags: [surveillance, race, power, resistance]
+glossary: [mass-surveillance, sousveillance, panopticon]
 links:
   - href: https://www.amazon.com/Dark-Matters-Surveillance-Simone-Browne/dp/0822359383
     label: "→ koupit (Amazon)"

@@ -1,5 +1,13 @@
 [
   {
+    "hash": "06c3ab08b95cd4b432e910bf4d948b01907cfe16",
+    "date": "2026-05-23T02:07:57+02:00",
+    "author": "tree",
+    "email": "tree@tree.fail",
+    "message": "Update .gitignore to exclude 'dist' directory, add 'glossary' field to book schema, and enhance README with glossary examples. Populate changelog and index with initial commit details for books.",
+    "changes": []
+  },
+  {
     "hash": "2b09a8120aabffe75af26bd7bb2f385342d7ba64",
     "date": "2026-05-23T01:21:55+02:00",
     "author": "tree",

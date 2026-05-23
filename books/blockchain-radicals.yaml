@@ -8,6 +8,7 @@ language: [en]
 formats: [print, ebook]
 physical: false
 tags: [crypto, blockchain, economics, left-libertarianism]
+glossary: [blockchain, cryptocurrency, defi, dao, the-commons]
 links:
   - href: https://repeaterbooks.com/product/blockchain-radicals-how-capitalism-ruined-crypto-and-how-to-fix-it/
     label: "→ Repeater Books"

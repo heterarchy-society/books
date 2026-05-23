@@ -8,6 +8,7 @@ language: [en]
 formats: [print, ebook]
 physical: false
 tags: [anarchism, anthropology, history, decentralization]
+glossary: [anarchism, decentralization, heterarchy, polycentric-law]
 links:
   - href: https://us.macmillan.com/books/9780374157357/thedawnofeverything
     label: "→ web knihy"

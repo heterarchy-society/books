@@ -8,6 +8,7 @@ language: [en]
 formats: [web, ebook]
 physical: false
 tags: [governance, sovereignty, decentralization, crypto]
+glossary: [post-state-governance-models, self-sovereignty, decentralization, dao]
 links:
   - href: https://thenetworkstate.com/
     label: "→ číst online"

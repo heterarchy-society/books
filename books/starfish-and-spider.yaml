@@ -8,6 +8,7 @@ language: [en]
 formats: [print, ebook]
 physical: false
 tags: [decentralization, organization, coordination, resilience]
+glossary: [decentralization, p2p, mesh-networks]
 links:
   - href: https://www.penguinrandomhouse.com/books/298985/the-starfish-and-the-spider-by-ori-brafman-and-rod-a-beckstrom/
     label: "→ web knihy"

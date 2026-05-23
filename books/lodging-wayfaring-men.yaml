@@ -8,6 +8,7 @@ language: [en]
 formats: [pdf, ebook]
 physical: false
 tags: [fiction, cypherpunk, sovereignty, parallel-structures]
+glossary: [cypherpunk, parallel-society, digital-autonomy, self-sovereignty]
 links:
   - href: https://anarplex.sirion.io/hosted/files/A_Lodging_of_Wayfaring_Men.pdf
     label: "→ stáhnout PDF"

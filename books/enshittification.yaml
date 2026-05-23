@@ -8,6 +8,7 @@ language: [en]
 formats: [print, ebook]
 physical: false
 tags: [platforms, internet, capitalism, decentralization]
+glossary: [decentralization, open-source, digital-autonomy]
 links:
   - href: https://craphound.com/enshittification/
     label: "→ Cory Doctorow"

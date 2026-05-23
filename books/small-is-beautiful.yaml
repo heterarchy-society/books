@@ -8,6 +8,7 @@ language: [en]
 formats: [print, ebook]
 physical: false
 tags: [economics, decentralization, ecology, autonomy]
+glossary: [decentralization, digital-autonomy, off-grid-living]
 links:
   - href: https://archive.org/details/smallisbeautiful00schu
     label: "→ číst na archive.org"

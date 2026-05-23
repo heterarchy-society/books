@@ -22,7 +22,6 @@ Each book lives in `books/{id}.yaml`. The filename (without `.yaml`) becomes the
 | `links` | yes | object[] | Links to read/buy (`href` + `label` required, `external` optional) |
 | `cover` | no | string | Cover image filename (place file in `assets/`) |
 | `year` | no | string | Publication year |
-| `tags` | no | string[] | Topic tags |
 | `glossary` | no | string[] | Related glossary term IDs |
 | `source` | no | object | Where the book was sourced from (`name` + `href`) |
 
@@ -38,7 +37,6 @@ description: |
 language: [en]
 formats: [ebook]
 physical: false
-tags: [sovereignty, technology, economics]
 glossary: [self-sovereignty, digital-autonomy]
 links:
   - href: https://archive.org/details/the-sovereign-individual

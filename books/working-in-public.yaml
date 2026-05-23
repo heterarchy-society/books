@@ -7,7 +7,6 @@ description: |
 language: [en]
 formats: [print, ebook]
 physical: false
-tags: [open-source, community, coordination, software]
 glossary: [open-source, foss, web-of-trust]
 links:
   - href: https://press.stripe.com/working-in-public

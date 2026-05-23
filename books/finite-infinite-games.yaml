@@ -7,7 +7,6 @@ description: |
 language: [en]
 formats: [ebook]
 physical: false
-tags: [philosophy, coordination, game-theory]
 glossary: [game-theory, schelling-point]
 links:
   - href: https://archive.org/details/finiteinfinitega00carsrich

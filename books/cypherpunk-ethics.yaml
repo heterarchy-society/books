@@ -7,7 +7,6 @@ description: |
 language: [en]
 formats: [print, ebook]
 physical: false
-tags: [cypherpunk, ethics, privacy, cryptography]
 glossary: [cypherpunk, cryptoanarchy, privacy, cryptography, digital-autonomy]
 links:
   - href: https://www.amazon.com/Cypherpunk-Ethics-Radical-Digital-Routledge/dp/1032113596

@@ -7,7 +7,6 @@ description: |
 language: [en]
 formats: [pdf, web]
 physical: false
-tags: [copyright, culture, internet, freedom]
 glossary: [the-commons, open-source, piracy, censorship-resistance]
 links:
   - href: https://lessig.org/product/free-culture/

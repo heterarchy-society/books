@@ -7,7 +7,6 @@ description: |
 language: [en]
 formats: [pdf, ebook]
 physical: false
-tags: [agorism, crypto, cypherpunk, philosophy]
 glossary: [agorism, counter-economics, cypherpunk, nft, defi, dao, zero-knowledge-proof]
 links:
   - href: https://agorist.xyz/files/Agorism_XXI_I_2022.pdf

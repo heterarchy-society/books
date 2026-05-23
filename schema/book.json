@@ -25,10 +25,6 @@
       "minItems": 1
     },
     "physical": { "type": "boolean" },
-    "tags": {
-      "type": "array",
-      "items": { "type": "string" }
-    },
     "glossary": {
       "type": "array",
       "items": {

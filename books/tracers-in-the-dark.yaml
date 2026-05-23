@@ -7,7 +7,6 @@ description: |
 language: [en]
 formats: [print, ebook]
 physical: false
-tags: [crypto, privacy, surveillance, journalism]
 glossary: [bitcoin, blockchain, cryptocurrency, pseudonimity, privacy]
 links:
   - href: https://www.amazon.com/Tracers-Dark-Global-Crime-Cryptocurrency/dp/0385548095

@@ -7,7 +7,6 @@ description: |
 language: [en]
 formats: [print, ebook]
 physical: false
-tags: [surveillance, privacy, state, technology]
 glossary: [mass-surveillance, surveillance-capitalism, privacy, digital-identity]
 links:
   - href: https://www.amazon.com/Means-Control-Alliance-Government-Surveillance/dp/0593443225

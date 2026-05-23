@@ -7,7 +7,6 @@ description: |
 language: [en]
 formats: [pdf]
 physical: false
-tags: [governance, institutions, commons, polycentric]
 glossary: [polycentric-law, the-commons, game-theory]
 links:
   - href: https://wtf.tw/ref/ostrom_2005.pdf

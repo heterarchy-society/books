@@ -7,7 +7,6 @@ description: |
 language: [en]
 formats: [print, ebook]
 physical: false
-tags: [copyright, culture, law, media-criticism]
 glossary: [the-commons, piracy]
 links:
   - href: https://nyupress.org/9780814788073/copyrights-and-copywrongs/

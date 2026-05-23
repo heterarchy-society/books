@@ -1,0 +1,17 @@
+coverUrl: https://images.routledge.com/common/jackets/amazon/978103233/9781032334202.jpg
+title: Absolute Essentials of Ethereum
+author: Paul Dylan-Ennis
+year: "2024"
+description: |
+  Stručný průvodce ekosystémem Etherea — od základů blockchainu přes chytré kontrakty až po současné aplikace, Web3 a fintech. Učebnicový úvod pro každého, kdo chce pochopit, jak Ethereum opravdu funguje.
+language: [en]
+formats: [print, ebook]
+physical: false
+glossary: [ethereum, blockchain, smart-contract, cryptocurrency, dapps, proof-of-stake]
+links:
+  - href: https://www.routledge.com/Absolute-Essentials-of-Ethereum/Dylan-Ennis/p/book/9781032334202
+    label: "→ Routledge"
+    external: true
+source:
+  name: Routledge
+  href: https://www.routledge.com/Absolute-Essentials-of-Ethereum/Dylan-Ennis/p/book/9781032334202

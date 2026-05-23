@@ -4,7 +4,7 @@
   "type": "module",
   "description": "Heterarchy Society library — books data repository",
   "scripts": {
-    "build": "atlas build"
+    "build": "heterarchy-atlas build"
   },
   "dependencies": {
     "@heterarchy/atlas": "github:heterarchy-society/atlas"

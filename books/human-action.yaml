@@ -1,0 +1,20 @@
+cover: human-action.jpg
+title: Human Action
+author: Ludwig von Mises
+year: "1949"
+description: |
+  Monumentální obhajoba ekonomie volného trhu a praxeologie — vědy o lidském jednání. Mises buduje celou ekonomickou teorii od základu: z axiomů záměrného jednání odvozuje ceny, kapitál, cyklus, roli podnikatele i nevyhnutelný selhání centrálního plánování. Jedno z nejvlivnějších děl libertariánského a rakouského myšlení 20. století.
+language: [en]
+formats: [print, ebook, pdf]
+physical: false
+glossary: [austrian-economics, free-market, central-planning]
+links:
+  - href: https://mises.org/library/book/human-action
+    label: "→ číst zdarma (Mises Institute)"
+    external: true
+  - href: https://www.amazon.com/Human-Action-Ludwig-von-Mises/dp/1610161459
+    label: "→ koupit (Amazon)"
+    external: true
+source:
+  name: Mises Institute
+  href: https://mises.org/library/book/human-action

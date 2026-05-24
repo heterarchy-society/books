@@ -5,3 +5,4 @@ format = "yaml"
 output_key = "books"
 git_history = true
 assets_dir = "assets"
+asset_fields = ["cover"]

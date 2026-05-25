@@ -7,7 +7,7 @@
     "build": "heterarchy-atlas build"
   },
   "dependencies": {
-    "@heterarchy/atlas": "github:heterarchy-society/atlas"
+    "@heterarchy/atlas": "github:heterarchy-society/atlas#3587bb9"
   },
   "license": "MIT"
 }

@@ -1,6 +1,7 @@
 cover: alignment-problem.jpg
 title: The Alignment Problem
-author: Brian Christian
+authors:
+  - Brian Christian
 year: "2020"
 description: |
   Machine Learning and Human Values. How do we ensure the systems we build actually do what we intend?

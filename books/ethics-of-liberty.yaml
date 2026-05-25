@@ -1,6 +1,7 @@
 cover: ethics-of-liberty.jpg
 title: The Ethics of Liberty
-author: Murray Rothbard
+authors:
+  - Murray Rothbard
 year: "1982"
 description: |
   Filozofický základ anarcho-kapitalismu — přirozené právo, vlastnictví a legitimita násilí. Rothbard buduje etický systém od prvních principů k aplikaci na stát a trh.

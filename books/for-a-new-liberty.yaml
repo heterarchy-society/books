@@ -1,6 +1,7 @@
 cover: for-a-new-liberty.jpg
 title: "For a New Liberty: The Libertarian Manifesto"
-author: Murray Rothbard
+authors:
+  - Murray Rothbard
 year: "1973"
 description: |
   Anarcho-kapitalistický manifest — systematická obhajoba absolutní individuální svobody a dobrovolné společnosti bez státu. Nejčitelnější a nejúplnější Rothbardův vstupní bod.

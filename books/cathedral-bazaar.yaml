@@ -1,6 +1,7 @@
 cover: cathedral-bazaar.jpg
 title: The Cathedral and the Bazaar
-author: Eric S. Raymond
+authors:
+  - Eric S. Raymond
 year: "1999"
 description: |
   Musings on Linux and Open Source by an Accidental Revolutionary. Eseje o otevřeném vývoji a decentralizované spolupráci.

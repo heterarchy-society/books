@@ -1,6 +1,7 @@
 cover: forest-passage.webp
 title: The Forest Passage
-author: Ernst Jünger
+authors:
+  - Ernst Jünger
 year: "2013"
 description: |
   Ernst Jünger explores the possibility of resistance: how the independent thinker can withstand and oppose the power of the omnipresent state.

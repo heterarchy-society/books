@@ -1,6 +1,7 @@
 cover: singularity-is-near.jpg
 title: The Singularity Is Near
-author: Ray Kurzweil
+authors:
+  - Ray Kurzweil
 year: "2005"
 description: |
   When Humans Transcend Biology. A deep dive into exponential technological growth and the coming merger of human and machine intelligence.

@@ -1,6 +1,7 @@
 cover: small-is-beautiful.jpg
 title: "Small is Beautiful: Economics as if People Mattered"
-author: E.F. Schumacher
+authors:
+  - E.F. Schumacher
 year: "1973"
 description: |
   Ekonomika v lidském měřítku — proti gigantismu průmyslu a státu. Schumacher argumentuje, že malé, decentralizované struktury jsou nejen etičtější, ale i efektivnější.

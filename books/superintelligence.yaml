@@ -1,6 +1,7 @@
 cover: superintelligence.jpg
 title: Superintelligence
-author: Nick Bostrom
+authors:
+  - Nick Bostrom
 year: "2014"
 description: |
   Paths, Dangers, Strategies. What happens when machines surpass human intelligence, and how do we navigate the transition?

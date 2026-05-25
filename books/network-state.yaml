@@ -1,6 +1,7 @@
 cover: network-state.jpg
 title: The Network State
-author: Balaji Srinivasan
+authors:
+  - Balaji Srinivasan
 year: "2022"
 description: |
   How to start a new country.

@@ -1,6 +1,7 @@
 cover: working-in-public.jpg
 title: "Working in Public: The Making and Maintenance of Open Source Software"
-author: Nadia Eghbal
+authors:
+  - Nadia Eghbal
 year: "2020"
 description: |
   Jak open source skutečně funguje — ne jako romantický komunismus, ale jako komplexní ekosystém s různými modely správy, motivace a udržitelnosti. Nejlepší současná analýza decentralizované tvorby.

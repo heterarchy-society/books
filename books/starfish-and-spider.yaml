@@ -1,6 +1,8 @@
 cover: starfish-and-spider.png
 title: "The Starfish and the Spider: The Unstoppable Power of Leaderless Organizations"
-author: Ori Brafman & Rod A. Beckstrom
+authors:
+  - Ori Brafman
+  - Rod A. Beckstrom
 year: "2006"
 description: |
   Proč decentralizované organizace přežívají útoky, které by zničily centralizované. Brafman a Beckstrom mapují logiku leaderless hnutí — od AA přes Wikipedia až po al-Káidu.

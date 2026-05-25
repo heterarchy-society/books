@@ -1,6 +1,7 @@
 cover: endurance-shackleton.jpg
 title: "Endurance: Shackleton's Incredible Voyage"
-author: Alfred Lansing
+authors:
+  - Alfred Lansing
 year: "1959"
 description: |
   A tale of survival by Shackleton and all 27 of his men for over a year on the ice-bound Antarctic seas — a story of leadership without hierarchy.

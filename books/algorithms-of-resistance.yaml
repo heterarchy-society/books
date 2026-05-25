@@ -1,6 +1,8 @@
 cover: algorithms-of-resistance.jpg
 title: "Algorithms of Resistance: The Everyday Fight against Platform Power"
-author: Tiziano Bonini & Emiliano Treré
+authors:
+  - Tiziano Bonini
+  - Emiliano Treré
 year: "2024"
 description: |
   Jak pracovníci platforem, tvůrci a aktivisté obracejí algoritmy proti moci, která je řídí. Bonini a Treré ukazují každodenní taktiky algoritmické agency napříč gig workem, kulturními průmysly a politikou.

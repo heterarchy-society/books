@@ -1,5 +1,6 @@
 [collection]
 name = "books"
+schema = "book.json"
 source_dir = "books"
 format = "yaml"
 output_key = "books"

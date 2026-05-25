@@ -1,6 +1,7 @@
 cover: absolute-essentials-of-ethereum.jpg
 title: Absolute Essentials of Ethereum
-author: Paul Dylan-Ennis
+authors:
+  - Paul Dylan-Ennis
 year: "2024"
 description: |
   Stručný průvodce ekosystémem Etherea — od základů blockchainu přes chytré kontrakty až po současné aplikace, Web3 a fintech. Učebnicový úvod pro každého, kdo chce pochopit, jak Ethereum opravdu funguje.

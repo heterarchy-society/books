@@ -1,6 +1,7 @@
 cover: 1984.jpg
 title: Nineteen Eighty-Four
-author: George Orwell
+authors:
+  - George Orwell
 year: "1949"
 description: |
   Totalitní stát jako dokonalý stroj na výrobu souhlasu. Big Brother, doublethink, newspeak — Orwellův slovník se stal jazykem, kterým popisujeme skutečný svět.

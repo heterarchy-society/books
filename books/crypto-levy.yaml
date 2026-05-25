@@ -1,6 +1,7 @@
 cover: crypto-levy.jpg
 title: "Crypto: How the Code Rebels Beat the Government — Saving Privacy in the Digital Age"
-author: Steven Levy
+authors:
+  - Steven Levy
 year: "2001"
 description: |
   Definitivní historie kryptowars — jak hrstka matematiků, hackerů a libertariánů porazila NSA a vládní monopol na šifrování. Levy byl u toho a znal všechny klíčové postavy.

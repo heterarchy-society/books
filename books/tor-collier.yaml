@@ -1,6 +1,7 @@
 cover: tor-collier.jpg
 title: "Tor: From the Dark Web to the Future of Privacy"
-author: Ben Collier
+authors:
+  - Ben Collier
 year: "2024"
 description: |
   A cultural and technological history of Tor — from the US Navy's Naval Research Lab and the Cypherpunks to activists on the frontlines of digital privacy today.

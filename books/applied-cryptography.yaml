@@ -1,6 +1,7 @@
 cover: applied-cryptography.jpg
 title: Applied Cryptography
-author: Bruce Schneier
+authors:
+  - Bruce Schneier
 year: "1996"
 description: |
   Technická bible kryptografie — protokoly, algoritmy a zdrojový kód v C. Druhé vydání, které se stalo standardní referencí pro každého, kdo chce pochopit, jak šifrování skutečně funguje.

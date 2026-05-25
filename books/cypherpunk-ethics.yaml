@@ -1,6 +1,7 @@
 cover: cypherpunk-ethics.webp
 title: "Cypherpunk Ethics: Radical Ethics for the Digital Age"
-author: Patrick D. Anderson
+authors:
+  - Patrick D. Anderson
 year: "2022"
 description: |
   Explores the moral worldview of the cypherpunks — a movement that advocates strong cryptography to defend privacy and promote institutional transparency.

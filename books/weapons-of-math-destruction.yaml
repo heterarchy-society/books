@@ -1,6 +1,7 @@
 cover: weapons-of-math-destruction.jpg
 title: Weapons of Math Destruction
-author: Cathy O'Neil
+authors:
+  - "Cathy O'Neil"
 year: "2016"
 description: |
   Jak algoritmy fungují jako nástroje moci — neprůhledné, samonaplňující a systematicky poškozující ty nejzranitelnější. O'Neil demaskuje matematiku jako politiku.

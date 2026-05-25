@@ -1,6 +1,8 @@
 cover: sovereign-individual.jpg
 title: The Sovereign Individual
-author: James Dale Davidson & William Rees-Mogg
+authors:
+  - James Dale Davidson
+  - William Rees-Mogg
 year: "1997"
 description: |
   Mastering the Transition to the Information Age. Klasická teze o tom, jak digitální technologie mění vztah jednotlivce a státu.

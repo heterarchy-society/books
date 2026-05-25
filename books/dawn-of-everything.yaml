@@ -1,6 +1,8 @@
 cover: dawn-of-everything.jpg
 title: "The Dawn of Everything: A New History of Humanity"
-author: David Graeber & David Wengrow
+authors:
+  - David Graeber
+  - David Wengrow
 year: "2021"
 description: |
   Antropologická demolice mýtu, že hierarchie je nevyhnutelná. Graeber a Wengrow ukazují, že lidé po tisíce let vědomě experimentovali s různými formami společenského uspořádání — a záměrně odmítali centralizaci.

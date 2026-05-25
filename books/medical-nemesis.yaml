@@ -1,6 +1,7 @@
 cover: medical-nemesis.jpg
 title: Medical Nemesis
-author: Ivan Illich
+authors:
+  - Ivan Illich
 year: "1975"
 description: |
   Profesionalizace medicíny ničí schopnost lidí pečovat o sebe navzájem. Stejná logika jako v Tools for Conviviality — aplikovaná na zdravotnictví a institucionální závislost.

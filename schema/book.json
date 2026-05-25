@@ -2,7 +2,7 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "https://heterarchy.fyi/schema/book.json",
   "type": "object",
-  "required": ["id", "title", "author", "description", "language", "formats", "physical", "links"],
+  "required": ["id", "title", "authors", "description", "language", "formats", "physical", "links"],
   "additionalProperties": false,
   "properties": {
     "id": {
@@ -10,7 +10,11 @@
       "pattern": "^[a-z0-9\\-]+$"
     },
     "title": { "type": "string", "minLength": 1 },
-    "author": { "type": "string", "minLength": 1 },
+    "authors": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "minItems": 1
+    },
     "year": { "type": "string" },
     "cover": { "type": "string" },
     "description": { "type": "string", "minLength": 1 },

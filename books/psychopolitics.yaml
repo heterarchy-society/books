@@ -1,6 +1,7 @@
 cover: psychopolitics.webp
 title: "Psychopolitics: Neoliberalism and New Technologies of Power"
-author: Byung-Chul Han
+authors:
+  - Byung-Chul Han
 year: "2017"
 description: |
   Exploring how neoliberalism has discovered the productive force of the psyche.

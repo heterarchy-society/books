@@ -1,6 +1,8 @@
 cover: praxeology-of-privacy.jpg
 title: The Praxeology of Privacy
 author: Max Hillebrand
+authors:
+  - Max Hillebrand|max-hillebrand
 year: "2026"
 description: |
   The state cannot steal what it cannot see. A synthesis of Austrian economics and cypherpunk cryptography — why privacy matters and the engineering that makes it survivable.

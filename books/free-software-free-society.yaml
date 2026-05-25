@@ -1,6 +1,8 @@
 cover: free-software-free-society.jpg
 title: "Free Software, Free Society"
 author: Richard Stallman
+authors:
+  - Richard Stallman|richard-stallman
 year: "2002"
 description: |
   Selected Essays of Richard M. Stallman. When we speak of free software, we are referring to freedom, not price.

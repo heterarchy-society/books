@@ -4,10 +4,11 @@
   "type": "module",
   "description": "Heterarchy Society library — books data repository",
   "scripts": {
-    "build": "heterarchy-atlas build"
+    "build": "heterarchy-atlas build",
+    "validate": "heterarchy-atlas validate"
   },
   "dependencies": {
-    "@heterarchy-society/atlas": "github:heterarchy-society/atlas#06abf5a"
+    "@heterarchy-society/atlas": "^1.0.1"
   },
   "license": "MIT"
 }

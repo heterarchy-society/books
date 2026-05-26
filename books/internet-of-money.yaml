@@ -4,9 +4,9 @@ authors:
   - Andreas Antonopoulos|andreas-antonopoulos
 year: "2016"
 description: |
-  Sbírka přednášek o Bitcoinu a otevřených blockchainech — ne technický manuál,
-  ale úvod do sociální a ekonomické revoluce kryptoměn. Antonopoulos vysvětluje,
-  proč Bitcoin záleží, jak funguje důvěra bez institucí a co znamená „internet
+  Sbírka přednášek o [[bitcoin|Bitcoinu]] a otevřených blockchainech — ne technický manuál,
+  ale úvod do sociální a ekonomické revoluce kryptoměn. [Andreas Antonopoulos](people:andreas-antonopoulos) vysvětluje,
+  proč [[bitcoin]] záleží, jak funguje důvěra bez institucí a co znamená „internet
   peněz“ pro svobodu a decentralizaci. Volume One.
 language: [en]
 formats: [pdf, ebook, print]

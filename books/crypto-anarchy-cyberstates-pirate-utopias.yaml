@@ -4,7 +4,7 @@ authors:
   - Peter Ludlow|peter-ludlow
 year: "2001"
 description: |
-  Antologie textů o rané internetové politice, kryptoanarchii, digitálních jurisdikcích a pirátských utopiích. Ludlow skládá dohromady svět, kde se síť stává prostorem pro nové formy práva, identity a útěku ze státu.
+  Antologie textů o rané internetové politice, [[cryptoanarchy|kryptoanarchii]], digitálních jurisdikcích a pirátských utopiích — včetně [Crypto Anarchist Manifesto](writings:crypto-anarchist-manifesto) a dalších [[cypherpunk]] textů. Ludlow skládá dohromady svět, kde se síť stává prostorem pro nové formy práva, identity a útěku ze státu.
 language: [en]
 formats: [print, ebook]
 physical: false

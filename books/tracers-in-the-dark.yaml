@@ -8,7 +8,7 @@ description: |
 language: [en]
 formats: [print, ebook]
 physical: false
-glossary: [bitcoin, blockchain, cryptocurrency, pseudonimity, privacy]
+glossary: [bitcoin, blockchain, cryptocurrency, pseudonymity, privacy]
 links:
   - href: https://www.amazon.com/Tracers-Dark-Global-Crime-Cryptocurrency/dp/0385548095
     label: "→ koupit (Amazon)"

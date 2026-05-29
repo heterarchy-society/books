@@ -9,7 +9,7 @@ description: |
 language: [en]
 formats: [ebook]
 physical: false
-glossary: [self-sovereignty, digital-autonomy, cryptocurrency, post-state-governance-models]
+glossary: [sovereign-individual, self-sovereignty, digital-autonomy, cryptocurrency, post-state-governance-models]
 links:
   - href: https://archive.org/details/the-sovereign-individual
     label: "→ číst na archive.org"

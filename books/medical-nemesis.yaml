@@ -8,7 +8,7 @@ description: |
 language: [en]
 formats: [pdf, ebook]
 physical: false
-glossary: [digital-autonomy, consent, voluntary-association]
+glossary: [counterproductivity, counterproductive-institutions, conviviality, consent, voluntary-association, digital-autonomy]
 links:
   - href: https://archive.org/details/medicalnemesisso00illi
     label: "→ číst na archive.org"

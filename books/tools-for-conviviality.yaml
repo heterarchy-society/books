@@ -8,7 +8,7 @@ description: |
 language: [en]
 formats: [pdf, ebook]
 physical: false
-glossary: [digital-autonomy, open-hardware, distributed-manufacturing, decentralization]
+glossary: [conviviality, counterproductivity, radical-monopoly, decentralization, digital-autonomy, open-hardware, distributed-manufacturing]
 links:
   - href: https://archive.org/details/illich-tools-for-conviviality
     label: "→ číst na archive.org"

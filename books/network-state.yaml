@@ -8,7 +8,7 @@ description: |
 language: [en]
 formats: [web, ebook]
 physical: false
-glossary: [post-state-governance-models, self-sovereignty, decentralization, dao]
+glossary: [network-state, post-state-governance-models, self-sovereignty, decentralization, dao]
 links:
   - href: https://thenetworkstate.com/
     label: "→ číst online"

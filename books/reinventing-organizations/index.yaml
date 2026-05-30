@@ -1,0 +1,18 @@
+cover: cover.jpg
+title: Reinventing Organizations
+authors:
+  - Frederic Laloux|frederic-laloux
+year: "2014"
+description: |
+  Jak fungují organizace bez šéfů, popisů práce a rozpočtů. Laloux mapuje vznik nového paradigmatu řízení — samospráva, celistvost a evoluční účel jako základ živých organizací.
+language: [en]
+formats: [print, ebook]
+physical: false
+glossary: [heterarchy, decentralization, voluntary-association]
+links:
+  - href: https://www.reinventingorganizations.com/
+    label: "→ web knihy"
+    external: true
+source:
+  name: Reinventing Organizations
+  href: https://www.reinventingorganizations.com/

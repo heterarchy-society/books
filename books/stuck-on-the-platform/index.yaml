@@ -1,0 +1,21 @@
+cover: cover.webp
+title: "Stuck on the Platform: Reclaiming the Internet"
+authors:
+  - Geert Lovink|geert-lovink
+year: "2022"
+description: |
+  We're all trapped. No matter how hard you try to delete apps from your phone, the power of seduction draws you back. What happens when your home office starts to feel like a call center?
+language: [en]
+formats: [print, ebook]
+physical: false
+glossary: [digital-autonomy, decentralization]
+links:
+  - href: https://www.amazon.com/Stuck-Platform-Reclaiming-Geert-Lovink/dp/9493246086
+    label: "→ koupit (Amazon)"
+    external: true
+  - href: https://parallelpolis.info/b/stuck-on-the-platform-by-geert-lovink
+    label: "→ Parallel Polis"
+    external: true
+source:
+  name: Parallel Polis
+  href: https://parallelpolis.info/books

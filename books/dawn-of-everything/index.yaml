@@ -1,0 +1,19 @@
+cover: cover.jpg
+title: "The Dawn of Everything: A New History of Humanity"
+authors:
+  - David Graeber
+  - David Wengrow
+year: "2021"
+description: |
+  Antropologická demolice mýtu, že hierarchie je nevyhnutelná. Graeber a Wengrow ukazují, že lidé po tisíce let vědomě experimentovali s různými formami společenského uspořádání — a záměrně odmítali centralizaci.
+language: [en]
+formats: [print, ebook]
+physical: false
+glossary: [anarchism, decentralization, heterarchy, polycentric-law]
+links:
+  - href: https://us.macmillan.com/books/9780374157357/thedawnofeverything
+    label: "→ web knihy"
+    external: true
+source:
+  name: Macmillan
+  href: https://us.macmillan.com/books/9780374157357/thedawnofeverything

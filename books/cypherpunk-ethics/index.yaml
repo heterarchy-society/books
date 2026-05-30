@@ -1,0 +1,21 @@
+cover: cover.webp
+title: "Cypherpunk Ethics: Radical Ethics for the Digital Age"
+authors:
+  - Patrick D. Anderson
+year: "2022"
+description: |
+  Explores the moral worldview of the [[cypherpunks|cypherpunk]] — a movement that advocates strong [[cryptography]] to defend [[privacy]] and promote institutional transparency.
+language: [en]
+formats: [print, ebook]
+physical: false
+glossary: [cypherpunk, cryptoanarchy, privacy, cryptography, digital-autonomy]
+links:
+  - href: https://www.amazon.com/Cypherpunk-Ethics-Radical-Digital-Routledge/dp/1032113596
+    label: "→ koupit (Amazon)"
+    external: true
+  - href: https://parallelpolis.info/b/cypherpunk-ethics-by-patrick-d-anderson
+    label: "→ Parallel Polis"
+    external: true
+source:
+  name: Parallel Polis
+  href: https://parallelpolis.info/books

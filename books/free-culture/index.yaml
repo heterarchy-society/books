@@ -1,0 +1,18 @@
+cover: cover.gif
+title: "Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity"
+authors:
+  - Lawrence Lessig|lawrence-lessig
+year: "2004"
+description: |
+  Jak mediální giganti pomocí práva a technologie uzavírají kulturu — a proč je to katastrofa pro kreativitu. Lessig, zakladatel Creative Commons, staví případ pro otevřenou kulturu.
+language: [en]
+formats: [pdf, web]
+physical: false
+glossary: [the-commons, open-source, piracy, censorship-resistance]
+links:
+  - href: https://lessig.org/product/free-culture/
+    label: "→ číst zdarma"
+    external: true
+source:
+  name: Lawrence Lessig
+  href: https://lessig.org/product/free-culture/

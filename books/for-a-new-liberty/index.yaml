@@ -1,0 +1,18 @@
+cover: cover.jpg
+title: "For a New Liberty: The Libertarian Manifesto"
+authors:
+  - Murray Rothbard|murray-rothbard
+year: "1973"
+description: |
+  Anarcho-kapitalistický manifest — systematická obhajoba absolutní individuální svobody a dobrovolné společnosti bez státu. Nejčitelnější a nejúplnější Rothbardův vstupní bod.
+language: [en]
+formats: [pdf, ebook]
+physical: false
+glossary: [libertarianism, anarchocapitalism, voluntary-association, free-market, nap]
+links:
+  - href: https://mises.org/library/book/new-liberty-libertarian-manifesto
+    label: "→ číst na mises.org"
+    external: true
+source:
+  name: Mises Institute
+  href: https://mises.org/library/book/new-liberty-libertarian-manifesto

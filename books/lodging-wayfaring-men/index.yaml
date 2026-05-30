@@ -1,0 +1,18 @@
+cover: cover.jpg
+title: A Lodging of Wayfaring Men
+authors:
+  - Paul Rosenberg|paul-rosenberg
+year: "2007"
+description: |
+  A novel that explores freedom-seekers building a [[parallel-society]] on the Internet — [[cypherpunk]]-adjacent fiction about exit and [[self-sovereignty]].
+language: [en]
+formats: [pdf, ebook]
+physical: false
+glossary: [cypherpunk, parallel-society, digital-autonomy, self-sovereignty]
+links:
+  - href: https://anarplex.sirion.io/hosted/files/A_Lodging_of_Wayfaring_Men.pdf
+    label: "→ stáhnout PDF"
+    external: true
+source:
+  name: Sovereign Engineering
+  href: https://sovereignengineering.io/books

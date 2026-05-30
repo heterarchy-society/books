@@ -1,0 +1,18 @@
+cover: cover.jpg
+title: The Age of Surveillance Capitalism
+authors:
+  - Shoshana Zuboff
+year: "2019"
+description: |
+  Behaviorální data jako surovina pro předpověď a modifikaci lidského jednání. Zuboff popisuje vznik nové ekonomické logiky, kde jsme my sami produktem — a jak s tím bojovat.
+language: [en]
+formats: [print, ebook]
+physical: false
+glossary: [surveillance-capitalism, privacy, mass-surveillance, consent]
+links:
+  - href: https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/
+    label: "→ web knihy"
+    external: true
+source:
+  name: PublicAffairs
+  href: https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/

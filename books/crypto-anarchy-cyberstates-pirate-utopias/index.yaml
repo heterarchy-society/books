@@ -1,0 +1,18 @@
+cover: cover.jpg
+title: "Crypto Anarchy, Cyberstates, and Pirate Utopias"
+authors:
+  - Peter Ludlow|peter-ludlow
+year: "2001"
+description: |
+  Antologie textů o rané internetové politice, [[kryptoanarchii|cryptoanarchy]], digitálních jurisdikcích a pirátských utopiích — včetně [Crypto Anarchist Manifesto](writings:crypto-anarchist-manifesto) a dalších [[cypherpunk]] textů. Ludlow skládá dohromady svět, kde se síť stává prostorem pro nové formy práva, identity a útěku ze státu.
+language: [en]
+formats: [print, ebook]
+physical: false
+glossary: [cryptoanarchy, cypherpunk, post-state-governance-models, seasteading, piracy, digital-autonomy]
+links:
+  - href: https://www.amazon.com/Crypto-Anarchy-Cyberstates-Pirate-Utopias/dp/0262621517
+    label: "→ koupit (Amazon)"
+    external: true
+source:
+  name: MIT Press
+  href: https://mitpress.mit.edu/9780262621519/crypto-anarchy-cyberstates-and-pirate-utopias/

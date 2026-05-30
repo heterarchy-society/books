@@ -1,0 +1,22 @@
+cover: cover.jpg
+title: "Algorithms of Resistance: The Everyday Fight against Platform Power"
+authors:
+  - Tiziano Bonini
+  - Emiliano Treré
+year: "2024"
+description: |
+  Jak pracovníci platforem, tvůrci a aktivisté obracejí algoritmy proti moci, která je řídí. Bonini a Treré ukazují každodenní taktiky algoritmické agency napříč gig workem, kulturními průmysly a politikou.
+language: [en]
+formats: [ebook, web, print]
+physical: false
+glossary: [machine-learning, digital-autonomy, information-asymmetry]
+links:
+  - href: https://direct.mit.edu/books/oa-monograph/5721/Algorithms-of-ResistanceThe-Everyday-Fight-against
+    label: "→ číst na MIT Press Direct"
+    external: true
+  - href: https://mitpress.mit.edu/9780262547420/algorithms-of-resistance/
+    label: "→ MIT Press"
+    external: true
+source:
+  name: MIT Press Direct
+  href: https://direct.mit.edu/books/oa-monograph/5721/Algorithms-of-ResistanceThe-Everyday-Fight-against

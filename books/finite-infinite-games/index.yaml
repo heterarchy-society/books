@@ -1,0 +1,18 @@
+cover: cover.jpg
+title: Finite and Infinite Games
+authors:
+  - James P. Carse
+year: "1986"
+description: |
+  A vision of life as play and possibility.
+language: [en]
+formats: [ebook]
+physical: false
+glossary: [game-theory, schelling-point]
+links:
+  - href: https://archive.org/details/finiteinfinitega00carsrich
+    label: "→ číst na archive.org"
+    external: true
+source:
+  name: Sovereign Engineering
+  href: https://sovereignengineering.io/books

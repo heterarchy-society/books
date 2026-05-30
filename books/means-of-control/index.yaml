@@ -1,0 +1,21 @@
+cover: cover.webp
+title: "Means of Control: How the Hidden Alliance of Tech and Government Is Creating a New American Surveillance State"
+authors:
+  - Byron Tau
+year: "2024"
+description: |
+  You are being surveilled right now. An exposé of how the U.S. government allied with data brokers, tech companies, and advertisers to monitor us through the phones we carry and the devices in our homes.
+language: [en]
+formats: [print, ebook]
+physical: false
+glossary: [mass-surveillance, surveillance-capitalism, privacy, digital-identity]
+links:
+  - href: https://www.amazon.com/Means-Control-Alliance-Government-Surveillance/dp/0593443225
+    label: "→ koupit (Amazon)"
+    external: true
+  - href: https://parallelpolis.info/b/means-of-control-byron-tau
+    label: "→ Parallel Polis"
+    external: true
+source:
+  name: Parallel Polis
+  href: https://parallelpolis.info/books

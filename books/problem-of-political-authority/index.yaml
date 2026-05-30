@@ -1,0 +1,18 @@
+cover: cover.jpg
+title: The Problem of Political Authority
+authors:
+  - Michael Huemer
+year: "2013"
+description: |
+  Moderní filozofická demolice státní autority — proč žádná vláda nemá legitimní právo vládnout a proč ji posloucháme stejně. Přístupnější než Rothbard, analyticky precizní.
+language: [en]
+formats: [print, ebook]
+physical: false
+glossary: [anarchocapitalism, libertarianism, voluntary-association, nap]
+links:
+  - href: https://www.amazon.com/Problem-Political-Authority-Examination-Coerce/dp/1137281650
+    label: "→ koupit (Amazon)"
+    external: true
+source:
+  name: Palgrave Macmillan
+  href: https://www.amazon.com/Problem-Political-Authority-Examination-Coerce/dp/1137281650

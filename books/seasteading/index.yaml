@@ -1,0 +1,22 @@
+cover: cover.jpg
+title: "Seasteading: How Floating Nations Will Restore the Environment, Enrich the Poor, Cure the Sick, and Liberate Humanity from Politicians"
+authors:
+  - Joe Quirk
+  - Patri Friedman
+year: "2017"
+description: |
+  Kanonická kniha seasteadingového hnutí — vize plovoucích měst jako laboratoří nových forem vládnutí, technologií, ekologie a dobrovolných komunit mimo pevné hranice států.
+language: [en]
+formats: [print, ebook]
+physical: false
+glossary: [seasteading, post-state-governance-models, self-sovereignty, decentralization, voluntary-association, polycentric-law]
+links:
+  - href: https://www.simonandschuster.com/books/Seasteading/Joe-Quirk/9781451699272
+    label: "→ Simon & Schuster"
+    external: true
+  - href: https://www.seasteading.org/book/
+    label: "→ Seasteading Institute"
+    external: true
+source:
+  name: Simon & Schuster
+  href: https://www.simonandschuster.com/books/Seasteading/Joe-Quirk/9781451699272

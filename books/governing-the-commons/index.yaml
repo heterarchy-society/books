@@ -1,0 +1,18 @@
+cover: cover.jpg
+title: Governing the Commons
+authors:
+  - Elinor Ostrom|elinor-ostrom
+year: "1990"
+description: |
+  Jak komunity spravují sdílené zdroje bez státu ani trhu. Ostrom bourá Hardinovu "tragédii obecní půdy" empirickými důkazy — a ukazuje, že samospráva funguje.
+language: [en]
+formats: [print, ebook]
+physical: false
+glossary: [the-commons, polycentric-law, voluntary-association, game-theory]
+links:
+  - href: https://www.cambridge.org/core/books/governing-the-commons/A8BB63BC4A1433A50A3FB92EDBBB97D5
+    label: "→ Cambridge UP"
+    external: true
+source:
+  name: Cambridge University Press
+  href: https://www.cambridge.org/core/books/governing-the-commons/A8BB63BC4A1433A50A3FB92EDBBB97D5

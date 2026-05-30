@@ -1,0 +1,18 @@
+cover: cover.jpg
+title: "The Public Domain: Enclosing the Commons of the Mind"
+authors:
+  - James Boyle
+year: "2008"
+description: |
+  Jak se copyright rozrůstá a ničí kulturní commons. Boyle analyzuje "druhé ohrazování" — privatizaci idejí, která ohrožuje vědu, umění i internet. Volně dostupné online.
+language: [en]
+formats: [pdf, web]
+physical: false
+glossary: [the-commons, piracy, shadow-library]
+links:
+  - href: https://www.thepublicdomain.org/download/
+    label: "→ stáhnout zdarma"
+    external: true
+source:
+  name: Yale University Press
+  href: https://www.thepublicdomain.org/

@@ -1,0 +1,21 @@
+cover: cover.jpg
+title: "The Infinite Machine: How an Army of Crypto-hackers Is Building the Next Internet with Ethereum"
+authors:
+  - Camila Russo|camila-russo
+year: "2020"
+description: |
+  The true story of Ethereum's rise — from Vitalik Buterin's vision of a world supercomputer through the project's chaotic early days, landmark innovations, regulatory battles, and the lives of the people who built the world's second-largest cryptocurrency.
+language: [en]
+formats: [print, ebook]
+physical: false
+glossary: [ethereum, blockchain, cryptocurrency, smart-contract]
+links:
+  - href: https://www.camirusso.com/book
+    label: "→ web knihy"
+    external: true
+  - href: https://www.amazon.com/Infinite-Machine-Crypto-hackers-Building-Internet/dp/0062886142
+    label: "→ Amazon"
+    external: true
+source:
+  name: HarperCollins
+  href: https://www.camirusso.com/book

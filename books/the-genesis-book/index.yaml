@@ -1,0 +1,24 @@
+cover: cover.jpg
+title: "The Genesis Book: The Story of the People and Projects That Inspired Bitcoin"
+authors:
+  - Aaron van Wirdum
+year: "2024"
+description: |
+  [[Bitcoin|bitcoin]] se neobjevil z ničeho nic. Van Wirdum mapuje dekády počítačových vědců, privacy aktivistů a heterodoxních ekonomů, jejichž projekty a myšlenky vedly k prvnímu úspěšnému peer-to-peer elektronickému cash systému.
+language: [en]
+formats: [print, ebook]
+physical: false
+glossary: [bitcoin, cypherpunk, cryptocurrency, proof-of-work, double-spending-problem, public-key-cryptography]
+links:
+  - href: https://store.bitcoinmagazine.com/collections/books/products/the-genesis-book
+    label: "→ Bitcoin Magazine Store"
+    external: true
+  - href: https://thegenesisbook.com/
+    label: "→ web knihy"
+    external: true
+  - href: https://www.goodreads.com/book/show/204250558-the-genesis-book
+    label: "→ Goodreads"
+    external: true
+source:
+  name: Bitcoin Magazine Books
+  href: https://store.bitcoinmagazine.com/collections/books/products/the-genesis-book

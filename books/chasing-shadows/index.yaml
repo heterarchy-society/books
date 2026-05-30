@@ -1,0 +1,18 @@
+cover: cover.jpg
+title: Chasing Shadows
+authors:
+  - Ronald J. Deibert
+year: "2025"
+description: |
+  A real-life spy thriller documenting the Citizen Lab's investigations into cyber espionage — how authoritarian regimes exploit digital infrastructure to monitor and suppress activists, journalists, and dissidents worldwide.
+language: [en]
+formats: [print, ebook]
+physical: false
+glossary: [mass-surveillance, digital-self-defense, privacy]
+links:
+  - href: https://chasingshadowsbook.ca/
+    label: "→ web knihy"
+    external: true
+source:
+  name: Simon & Schuster
+  href: https://chasingshadowsbook.ca/

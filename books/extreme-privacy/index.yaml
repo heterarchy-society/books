@@ -1,0 +1,21 @@
+cover: cover.webp
+title: "Extreme Privacy: What It Takes to Disappear in America"
+authors:
+  - Michael Bazzell
+year: "2024"
+description: |
+  Michael Bazzell has helped hundreds of celebrities, billionaires, and everyday citizens disappear completely from public view. His latest work focuses on proactive privacy — not just cleaning up what is already online.
+language: [en]
+formats: [print, ebook]
+physical: false
+glossary: [privacy, opsec, digital-self-defense, anonymous-communication, 2fa, air-gap, vpn]
+links:
+  - href: https://www.amazon.com/Extreme-Privacy-What-Takes-Disappear-dp-B0DCJN61GF/dp/B0DCJN61GF
+    label: "→ koupit (Amazon)"
+    external: true
+  - href: https://parallelpolis.info/b/extreme-privacy-by-michael-bazzel
+    label: "→ Parallel Polis"
+    external: true
+source:
+  name: Parallel Polis
+  href: https://parallelpolis.info/books

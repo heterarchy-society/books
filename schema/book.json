@@ -16,7 +16,11 @@
       "minItems": 1
     },
     "year": { "type": "string" },
-    "cover": { "type": "string" },
+    "cover": {
+      "type": "string",
+      "pattern": "^cover\\.(png|jpe?g|webp|gif)$",
+      "description": "Cover image filename in the book directory"
+    },
     "description": { "type": "string", "minLength": 1 },
     "language": {
       "type": "array",

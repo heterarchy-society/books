@@ -1,0 +1,20 @@
+cover: cover.jpg
+title: "Vanishing Culture: A Report on Our Fragile Cultural Record"
+authors:
+  - Luca Messarra
+  - Chris Freeland
+  - Juliya Ziskina
+year: "2026"
+description: |
+  Zpráva o ohrožení veřejného přístupu ke kulturnímu dědictví v digitální době — streamovací platformy, dočasné licence, mazání webů a kyberútoky na archivy a knihovny.
+language: [en]
+formats: [pdf, web]
+physical: false
+glossary: [censorship-resistance, shadow-library, the-commons, piracy]
+links:
+  - href: https://archive.org/details/vanishing-culture-2026
+    label: "→ číst na archive.org"
+    external: true
+source:
+  name: Internet Archive
+  href: https://archive.org/details/vanishing-culture-2026

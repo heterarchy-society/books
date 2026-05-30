@@ -1,0 +1,17 @@
+cover: cover.jpg
+title: Animal Farm
+authors:
+  - George Orwell|george-orwell
+year: "1945"
+description: |
+  Alegorická novela o revoluci, která zradí sama sebe. Zvířata svrhnou farmáře a postaví vlastní společnost — dokud se nová elita nestane k nerozeznání od té staré.
+language: [en]
+formats: [ebook, print]
+physical: false
+links:
+  - href: https://archive.org/details/animal-farm-by-george-orwell
+    label: "→ číst na archive.org"
+    external: true
+source:
+  name: Internet Archive
+  href: https://archive.org/details/animal-farm-by-george-orwell
